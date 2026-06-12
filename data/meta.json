@@ -1,13 +1,20 @@
 {
   "title": "MYP PT Schedule V2",
-  "subtitle": "Updated MYP PT Schedule V2: Thu 11 correction applied \u2014 6E does not test on Thu 11; 7C goes directly to F2-07 with Natalie; 6E cover with Liam P4 only. 8A PTMBOTH Mon 22 update applied. PTE triple update applied.",
-  "source_file": "Thursday_11th_triples_update.html",
-  "generated_from": "Thursday_11th_triples_update.html",
+  "subtitle": "Updated MYP PT Schedule V2: Thu 11 correction applied \u2014 6E does not test on Thu 11; 7C goes directly to F2-07 with Natalie; 6E cover with Liam P4 only. 8A PTMBOTH Mon 22 update applied. PTE triple update applied. Shadow Day/G8 event update applied. Saeed Tue P8 / Sarum Wed cover update applied.",
+  "source_file": "Thursday_11th_cover_update.html",
+  "generated_from": "Thursday_11th_cover_update.html",
   "data_files": [
     "sessions.csv",
     "cover.csv",
     "leadership.csv",
     "adjustments.csv",
     "concurrent.csv"
-  ]
+  ],
+  "record_counts": {
+    "sessions": 84,
+    "cover": 46,
+    "leadership": 78,
+    "adjustments": 25,
+    "concurrent": 66
+  }
 }

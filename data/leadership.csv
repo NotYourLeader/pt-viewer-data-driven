@@ -22,7 +22,7 @@ Thu 11 Jun,2026-06-11,P4,Rob Paler,7D.PTM2,1,
 Thu 11 Jun,2026-06-11,P7,Hashmi Salan Shameer,6C.PTMBOTH,1,
 Thu 11 Jun,2026-06-11,P8,Hashmi Salan Shameer,6F.PTMBOTH,1,
 Mon 15 Jun,2026-06-15,P2,Saeed Smith,8B.PTS,1,cancelled-pt
-Mon 15 Jun,2026-06-15,P3,Uchena Alli,7A.PTS,1,cancelled-pt
+Mon 15 Jun,2026-06-15,P3,Uchenna Alli,7A.PTS,1,cancelled-pt
 Mon 15 Jun,2026-06-15,P5,Barry Smyth,9A.PTEBOTH,1,cancelled-pt
 Mon 15 Jun,2026-06-15,P5,Lewis Macdonald,"8E.PTE1, 8F.PTE1",2,cancelled-pt
 Mon 15 Jun,2026-06-15,P5,Monica Lopez,9B.PTEBOTH,1,cancelled-pt
@@ -33,30 +33,30 @@ Tue 16 Jun,2026-06-16,P3,Saeed Smith,7B.PTEBOTH,1,
 Tue 16 Jun,2026-06-16,P7,Lewis Macdonald,6C.PTEBOTH,1,
 Tue 16 Jun,2026-06-16,P9,Barry Smyth,9C.PTS,1,
 Tue 16 Jun,2026-06-16,P9,Monica Lopez,9D.PTS,1,
-Tue 16 Jun,2026-06-16,P8,Rob Paler,8C.PTEBOTH,1,
-Tue 16 Jun,2026-06-16,P9,Uchena Alli,"9A.PTS, 9B.PTS",2,
+Tue 16 Jun,2026-06-16,P8,Saeed Smith,8C.PTEBOTH — Saeed covers/starts P8; Sarum P9–P10,1,
+Tue 16 Jun,2026-06-16,P9,Uchenna Alli,"9A.PTS, 9B.PTS",2,
 Wed 17 Jun,2026-06-17,P1,Lewis Macdonald,"7A.PTE1, 9D.PTEBOTH",2,
 Wed 17 Jun,2026-06-17,P1,Saeed Smith,8C.PTS,1,
 Wed 17 Jun,2026-06-17,P2,Barry Smyth,7F.PTS,1,
 Wed 17 Jun,2026-06-17,P3,Saeed Smith,6D.PTEBOTH,1,
-Wed 17 Jun,2026-06-17,P3,Uchena Alli,8A.PTS,1,
+Thu 25 Jun,2026-06-25,P4,Uchenna Alli,8A.PTS MOVED,1,rescheduled-pt
 Wed 17 Jun,2026-06-17,P7,Lewis Macdonald,8D.PTEBOTH,1,
-Wed 17 Jun,2026-06-17,P7,Saeed Smith,8E.PTM2,1,
+Wed 17 Jun,2026-06-17,P7,Saeed Smith,8E.PTM2 — Saeed covers Sarum P7; David finishes P8,1,
 Thu 18 Jun,2026-06-18,P3,Hashmi Salan Shameer,6E.PTM2 MOVED — start in F2-07,1,rescheduled-pt
 Thu 18 Jun,2026-06-18,P1,Lewis Macdonald,9C.PTEBOTH,1,
 Thu 18 Jun,2026-06-18,P2,Lewis Macdonald,7F.PTEBOTH,1,
 Thu 18 Jun,2026-06-18,P3,Rob Paler,8F.PTS,1,
 Thu 18 Jun,2026-06-18,P3,Barry Smyth / Ranjini Krishnan,7E.PTEBOTH,1,
-Thu 18 Jun,2026-06-18,P4,Uchena Alli,8D.PTS,1,
+Thu 18 Jun,2026-06-18,P4,Uchenna Alli,8D.PTS,1,
 Thu 18 Jun,2026-06-18,P7,Monica Lopez,8B.PTE1,1,
 Thu 18 Jun,2026-06-18,P8,Lewis Macdonald,6G.PTEBOTH,1,
 Thu 18 Jun,2026-06-18,P8,Rob Paler,6E.PTEBOTH,1,
 Thu 18 Jun,2026-06-18,P8,Barry Smyth,7C.PTEBOTH,1,
 Thu 18 Jun,2026-06-18,P9,Saeed Smith,7B.PTS,1,
-Fri 19 Jun,2026-06-19,P2,Uchena Alli,7C.PTS,1,
-Fri 19 Jun,2026-06-19,P2,Monica Lopez,6F.PTEBOTH,1,
-Fri 19 Jun,2026-06-19,P3,Rob Paler,7E.PTS,1,
-Fri 19 Jun,2026-06-19,P3,Saeed Smith,8B.PTE2,1,
+Wed 24 Jun,2026-06-24,P4,Uchenna Alli,7C.PTS MOVED — start P4; Liam continues P5,1,rescheduled-pt
+Tue 23 Jun,2026-06-23,P3,Monica Lopez,6F.PTEBOTH MOVED,1,rescheduled-pt
+Fri 19 Jun,2026-06-19,P4,Rob Paler,7E.PTS MOVED,1,rescheduled-pt
+Fri 19 Jun,2026-06-19,P4,Saeed Smith,8B.PTE2 MOVED,1,rescheduled-pt
 Fri 19 Jun,2026-06-19,P4,Lewis Macdonald,7A.PTE2,1,
 Mon 22 Jun,2026-06-22,P5,Lewis Macdonald,"8E.PTE2, 8F.PTE2",2,
 Mon 22 Jun,2026-06-22,P8,Hashmi Salan Shameer,8A.PTMBOTH MOVED,1,rescheduled-pt
@@ -65,7 +65,7 @@ Wed 24 Jun,2026-06-24,P9,Barry Smyth,8E.PTS,1,
 Thu 25 Jun,2026-06-25,P9,Monica Lopez,7D.PTS,1,
 Thu 11 Jun,2026-06-11,P4,Hashmi Salan Shameer,7C.PTMBOTH MOVED — start in F2-07 with Natalie,1,rescheduled-pt
 Wed 24 Jun,2026-06-24,P1,Saeed Smith,8B.PTS MOVED,1,rescheduled-pt
-Wed 24 Jun,2026-06-24,P4,Uchena Alli,7A.PTS MOVED,1,rescheduled-pt
+Wed 24 Jun,2026-06-24,P4,Uchenna Alli,7A.PTS MOVED,1,rescheduled-pt
 Thu 25 Jun,2026-06-25,P2,Lewis Macdonald,8E.PTE1 MOVED,1,rescheduled-pt
 Thu 25 Jun,2026-06-25,P8,Barry Smyth,9A.PTEBOTH MOVED,1,rescheduled-pt
 Thu 25 Jun,2026-06-25,P8,Monica Lopez,9B.PTEBOTH MOVED,1,rescheduled-pt
@@ -75,3 +75,5 @@ Tue 16 Jun,2026-06-16,P5,David Barton,Release Sarah Taylor: 7B.PTEBOTH final per
 Thu 18 Jun,2026-06-18,P8,Cover needed,RED cover: 6D while Cherisse starts 7C.PTEBOTH,RED,red-risk
 Tue 16 Jun,2026-06-16,P3,Cover needed,RED cover: 6F while Shah continues 8A.PTEBOTH,RED,red-risk
 Fri 19 Jun,2026-06-19,P2,Sunandhini Subramanian,Cover 8A while Shah starts 6F.PTEBOTH,Cover,
+Tue 23 Jun,2026-06-23,P4,Benjamin Gibson,6F.PTEBOTH continuation,Cover,rescheduled-pt
+Fri 19 Jun,2026-06-19,P5,Ashli Nelson,8B.PTE2 continuation,Cover,rescheduled-pt
