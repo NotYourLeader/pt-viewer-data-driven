@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>MYP PT Schedule V2 · Data Driven</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1 id="page-title">MYP PT Schedule V2</h1>
+    <p id="page-subtitle">Loading schedule data…</p>
+    <span id="load-status">CSV hydrated</span>
+  </header>
+
+  <main>
+    <section class="panel" data-tab="Overview">
+      <h2>Summary</h2>
+      <div class="data-note"><b>Data-driven version:</b> edit the files in <code>data/</code>. The HTML structure, styling and render logic stay fixed.</div>
+      <div class="metrics" id="summary-metrics"></div>
+      <div id="summary-notes" class="card-list" style="margin-top:14px"></div>
+    </section>
+
+    <section class="panel" data-tab="Timeline">
+      <h2>Timeline</h2>
+      <p class="timeline-help">Generated from <code>data/sessions.csv</code> and <code>data/leadership.csv</code>. Previous days are grouped under Past; the current or next schedule day appears first.</p>
+      <div id="current-day-note" class="current-day-note"></div>
+      <div id="timeline" class="day-timeline-list"></div>
+    </section>
+
+    <section class="panel" data-tab="Full Schedule">
+      <h2>Full Schedule</h2>
+      <div class="sf-bar">
+        <label for="fs-search">Search</label><input id="fs-search" placeholder="class, room, teacher…" />
+        <label for="fs-date">Date</label><select id="fs-date" class="sf-sel"><option value="">All dates</option></select>
+        <label for="fs-type">Type</label><select id="fs-type" class="sf-sel"><option value="">All types</option><option value="triple">Triple</option><option value="same">Same subject</option><option value="crosscore">Cross-core</option><option value="forced">Forced</option><option value="cancelled-pt">Cancelled</option><option value="red-risk">Red risk</option></select>
+        <button id="fs-reset" class="sf-reset">Reset</button><span id="fs-count" class="sf-count"></span>
+      </div>
+      <div class="tablewrap"><table id="full-sched-table" class="generated-table"><thead><tr><th>Session code</th><th>Start leader</th><th>Date</th><th>Window</th><th>Test</th><th>Testing room</th><th>Normal lessons used</th><th>Opportunity type</th><th>Classes to relocate + destination</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <section class="panel cover-panel" data-tab="Cover / Subs">
+      <h2>Cover / Substitutions</h2>
+      <div class="sf-bar">
+        <label for="cover-search">Search</label><input id="cover-search" placeholder="teacher, class, instruction…" />
+        <label for="cover-date">Date</label><select id="cover-date" class="sf-sel"><option value="">All dates</option></select>
+        <label for="cover-type">Type</label><select id="cover-type" class="sf-sel"><option value="">All types</option></select>
+        <button id="cover-reset" class="sf-reset">Reset</button><span id="cover-count" class="sf-count"></span>
+      </div>
+      <div class="tablewrap"><table id="cover-table" class="generated-table"><thead><tr><th>Date</th><th>Period</th><th>Trigger session</th><th>Type</th><th>Affected class/group</th><th>Normal lesson</th><th>Normal teacher</th><th>Cover / destination</th><th>Instruction</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <section class="panel leadership-panel" data-tab="Leadership">
+      <h2>Period leadership assignments</h2>
+      <div class="sf-bar"><label for="ld-search">Search</label><input id="ld-search" placeholder="leader or session…" /><button id="ld-reset" class="sf-reset">Reset</button><span id="ld-count" class="sf-count"></span></div>
+      <div class="tablewrap"><table id="leadership-table" class="generated-table"><thead><tr><th>Date</th><th>Period</th><th>Leader</th><th>Responsibility</th><th>Mobile load</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <section class="panel update-panel" data-tab="Adjustments">
+      <h2>Schedule Adjustments</h2>
+      <div class="update-note">Rows are generated from <code>data/adjustments.csv</code>. Use this table for operational changes and audit trail notes.</div>
+      <div class="tablewrap"><table id="schedule-adjustments-table" class="generated-table"><thead><tr><th>Status</th><th>Original session</th><th>Original slot</th><th>New slot</th><th>Room</th><th>Normal lesson / staff affected</th><th>Operational note</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <section class="panel" data-tab="By Class">
+      <h2>Class View / Export</h2>
+      <div class="controls"><select id="classSelect"></select><button id="exportClassBtn">Print / export class view</button></div>
+      <div id="classViews"></div>
+    </section>
+
+    <section class="panel" data-tab="By Teacher">
+      <h2>Teacher View / Export</h2>
+      <div class="controls"><select id="teacherSelect"></select><button id="exportTeacherBtn">Print / export teacher view</button></div>
+      <div id="teacherViews"></div>
+    </section>
+
+    <section class="panel review-panel" data-tab="Checks">
+      <h2>Constraint Checks</h2>
+      <div id="checks"></div>
+    </section>
+
+    <section class="panel" data-tab="Concurrent">
+      <h2>Concurrent Sessions</h2>
+      <div class="sf-bar"><label for="cc-min">Minimum concurrent sessions</label><input id="cc-min" type="number" min="0" value="2" /><button id="cc-reset" class="sf-reset">Reset</button><span id="cc-count" class="sf-count"></span></div>
+      <div class="tablewrap concurrent-wrap"><table id="concurrent-table-el" class="generated-table concurrent-table"><thead><tr><th>Date</th><th>Period</th><th>Concurrent sessions</th><th>Sessions</th></tr></thead><tbody></tbody></table></div>
+    </section>
+  </main>
+  <script src="js/app.js"></script>
+</body>
+</html>
