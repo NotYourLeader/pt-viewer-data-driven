@@ -34,6 +34,14 @@
   "notes": [
    {
     "cls": "note",
+    "html": "<b>6D PTE Part 2 scheduled:</b> Mon 22 Jun P4–P5 in F1-08. Cherisse Corbie starts P4 (her English lesson); Sunandhini Subramanian supervises P5 (her Maths period with 6D) in the same room. No cover, no room change. <b>8D Wed 17:</b> Fiona Williams supervises the final period (P9) — her own CONNECTED lesson with 8D; Melanie Reeve covers P7–P8."
+   },
+   {
+    "cls": "note",
+    "html": "<b>6D PTE update:</b> 6D now sits <b>Part 1 only</b> on Wed 17 Jun P3–P4 with Cherisse Corbie in F1-08 — her own English double, so no cover, no room move, and no mid-session changeover. The previous PTEBOTH triple (which needed Saeed Smith to cover the P5 Arabic period) has been removed."
+   },
+   {
+    "cls": "note",
     "html": "<b>8C PTE update:</b> Only Part 1 was completed on Tue 16 Jun. Part 2 is scheduled for <b>Wed 17 Jun P7–P8 in F1-10</b>. David Woodward starts P7 (he already supervises 8C for INS that period); Sarum Shah takes over at P8 when her 8E lesson ends. F1-10 is held for both periods so the class does not move mid-test and no other class is displaced. <b>6A PTE:</b> both parts complete; the Tue 23 follow-up has been removed."
    },
    {
@@ -659,16 +667,6 @@
    "type": "same"
   },
   {
-   "code": "6D.PTEBOTH",
-   "date": "Wed 17 Jun",
-   "startPeriod": 3,
-   "endPeriod": 4,
-   "room": "F1-08",
-   "teacher": "Cherisse → Saeed",
-   "type": "same",
-   "rowStaff": "Cherisse Corbie"
-  },
-  {
    "code": "9D.PTEBOTH",
    "date": "Wed 17 Jun",
    "startPeriod": 1,
@@ -683,27 +681,17 @@
    }
   },
   {
-   "code": "6D.PTEBOTH",
-   "date": "Wed 17 Jun",
-   "startPeriod": 5,
-   "endPeriod": 5,
-   "room": "F1-08",
-   "teacher": "Saeed Smith",
-   "type": "same"
-  },
-  {
    "code": "8E.PTM2",
    "date": "Wed 17 Jun",
    "startPeriod": 7,
    "endPeriod": 7,
    "room": "F2-10",
-   "teacher": "Saeed/cover → David Barton",
-   "type": "forced",
-   "rowStaff": "Saeed Smith",
+   "teacher": "Sarum Shah",
+   "type": "same",
    "flag": {
-    "type": "exception",
-    "text": "EXCEPTION",
-    "note": "Manual supervision exception: Saeed/cover starts P7; David Barton finishes supervision P8."
+    "type": "cover",
+    "text": "P7 START",
+    "note": "8E starts PTM2 with Sarum Shah in F2-10 at P7; David Barton finishes supervision at P8. No external cover needed."
    }
   },
   {
@@ -721,23 +709,36 @@
    "startPeriod": 8,
    "endPeriod": 8,
    "room": "F2-10",
-   "teacher": "Saeed/cover → David Barton",
-   "type": "forced",
-   "rowStaff": "David Barton",
+   "teacher": "David Barton",
+   "type": "same",
    "flag": {
-    "type": "exception",
-    "text": "EXCEPTION",
-    "note": "Manual supervision exception: Saeed/cover starts P7; David Barton finishes supervision P8."
+    "type": "cover",
+    "text": "FINISH",
+    "note": "David Barton finishes 8E.PTM2 supervision at P8 in F2-10 (Sarum Shah started P7)."
    }
   },
   {
    "code": "8D.PTEBOTH",
    "date": "Wed 17 Jun",
    "startPeriod": 7,
-   "endPeriod": 9,
+   "endPeriod": 8,
    "room": "F1-04",
    "teacher": "Melanie Reeve",
    "type": "triple"
+  },
+  {
+   "code": "8D.PTEBOTH",
+   "date": "Wed 17 Jun",
+   "startPeriod": 9,
+   "endPeriod": 9,
+   "room": "F1-04",
+   "teacher": "Fiona Williams",
+   "type": "triple",
+   "flag": {
+    "type": "cover",
+    "text": "P9",
+    "note": "Fiona Williams supervises 8D for the final period (P9) in F1-04 — her own CONNECTED lesson with 8D. Melanie Reeve covers P7–P8."
+   }
   },
   {
    "code": "8C.PTE2",
@@ -780,6 +781,15 @@
     "text": "COVER",
     "note": "Jairusha Jackson supervises Vanessa Pinto's Media Arts class (10A–10D) in F2-05 at P3, so Vanessa can stay with the 9D.PTEBOTH test through P3. Jairusha is already in F2-05 for P1–P2 (DP2 Maths AI)."
    }
+  },
+  {
+   "code": "6D.PTE1",
+   "date": "Wed 17 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "same"
   },
   {
    "code": "6E.PTM2 MOVED",
@@ -956,6 +966,34 @@
    "type": "same"
   },
   {
+   "code": "6D.PTE2",
+   "date": "Mon 22 Jun",
+   "startPeriod": 4,
+   "endPeriod": 4,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "same",
+   "flag": {
+    "type": "cover",
+    "text": "P4 START",
+    "note": "6D start PTE Part 2 with Cherisse Corbie in F1-08 at P4 (her own English lesson). Sunandhini Subramanian supervises P5 in the same room."
+   }
+  },
+  {
+   "code": "6D.PTE2",
+   "date": "Mon 22 Jun",
+   "startPeriod": 5,
+   "endPeriod": 5,
+   "room": "F1-08",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "flag": {
+    "type": "cover",
+    "text": "P5",
+    "note": "Sunandhini Subramanian supervises 6D for P5 in F1-08 (her own Maths period with 6D). Class stays in the same room throughout; no move."
+   }
+  },
+  {
    "code": "6F.PTEBOTH",
    "date": "Tue 23 Jun",
    "startPeriod": 3,
@@ -1126,10 +1164,6 @@
     "text": "Rob Paler: 7F.PTM1"
    },
    {
-    "period": "P5",
-    "text": "Hashmi Salan Shameer: 6D.PTM1"
-   },
-   {
     "period": "P7",
     "text": "Hashmi Salan Shameer: 7C.PTMBOTH, 8D.PTM1"
    },
@@ -1260,6 +1294,18 @@
    {
     "period": "P3",
     "text": "Jairusha Jackson: Media Arts cover (F2-05)"
+   },
+   {
+    "period": "P7",
+    "text": "Sarum Shah: 8E.PTM2 start"
+   },
+   {
+    "period": "P8",
+    "text": "David Barton: 8E.PTM2 finish"
+   },
+   {
+    "period": "P9",
+    "text": "Fiona Williams: 8D.PTEBOTH (P9)"
    }
   ],
   "Thu 18 Jun": [
@@ -1318,6 +1364,14 @@
    {
     "period": "P8",
     "text": "Hashmi Salan Shameer: 8A.PTMBOTH MOVED"
+   },
+   {
+    "period": "P4",
+    "text": "Cherisse Corbie: 6D.PTE2 start"
+   },
+   {
+    "period": "P5",
+    "text": "Sunandhini  Subramanian: 6D.PTE2"
    }
   ],
   "Tue 23 Jun": [
@@ -1507,18 +1561,6 @@
    "normalTeacher": "Lewis Macdonald",
    "destination": "F2-09 (MATH with Sunandhini Subramanian)",
    "instruction": "6G go to F2-09; Sunandhini Subramanian receives/covers them. Lewis Macdonald remains committed to 6B.PTEBOTH in F1-03."
-  },
-  {
-   "rowClass": "manualcoverevent",
-   "date": "Wed 17 Jun",
-   "period": "P7",
-   "trigger": "8E.PTM2",
-   "type": "Cover/start",
-   "affected": "8E",
-   "normalLesson": "ENGLISH / PTM supervision start",
-   "normalTeacher": "Sarum Shah",
-   "destination": "Saeed Smith",
-   "instruction": "Saeed Smith covers Sarum and starts 8E.PTM2 during P7; David Barton finishes supervision during P8."
   },
   {
    "rowClass": "coverevent",
@@ -1726,18 +1768,6 @@
   },
   {
    "rowClass": "manualcoverevent",
-   "date": "Wed 17 Jun",
-   "period": "P5",
-   "trigger": "6D.PTEBOTH",
-   "type": "Cover",
-   "affected": "6D",
-   "normalLesson": "ARABIC",
-   "normalTeacher": "Saeed Smith",
-   "destination": "F1-08",
-   "instruction": "Saeed supervises P5 while Arabic teachers continue teaching the remaining students."
-  },
-  {
-   "rowClass": "manualcoverevent",
    "date": "Tue 16 Jun",
    "period": "P5",
    "trigger": "7B.PTEBOTH",
@@ -1879,6 +1909,18 @@
    "normalTeacher": "Vanessa Pinto",
    "destination": "F2-05",
    "instruction": "Vanessa Pinto supervises 9D.PTEBOTH for the full P1–P3 block, so Jairusha Jackson covers Vanessa's P3 Media Arts class (10A–10D) in F2-05. Jairusha is already in F2-05 for P1–P2."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Mon 22 Jun",
+   "period": "P5",
+   "trigger": "6D.PTE2",
+   "type": "Supervision handover",
+   "affected": "6D",
+   "normalLesson": "MATH",
+   "normalTeacher": "Sunandhini  Subramanian",
+   "destination": "F1-08",
+   "instruction": "6D.PTE2 Part 2: Cherisse Corbie starts P4 (English) in F1-08; Sunandhini Subramanian supervises P5 (her normal 6D Maths period) in the same room. No external cover; class does not move."
   }
  ],
  "leadership": {
@@ -3000,15 +3042,15 @@
    {
     "rowClass": "same rescheduled-pt",
     "cells": [
-     "6D.PTEBOTH",
+     "6D.PTE1",
      "Saeed Smith",
      "Wed 17 Jun",
-     "P3–P5 9:20–11:40",
-     "PTE Parts 1+2",
+     "P3–P4<br/><small>9:20–11:00</small>",
+     "PTE Part 1",
      "F1-08 testing class stays here throughout",
-     "P3 ENGLISH Cherisse Corbie; P4 ENGLISH Cherisse Corbie; P5 ARABIC block",
-     "protected triple using Arabic block",
-     "P5 Arabic teachers keep remaining students; Saeed supervises/cover final PTE period. REPRINT CODES"
+     "<span class=\"chip english\">P3 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip english\">P4 ENGLISH<br/><small>Cherisse Corbie</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
     ]
    },
    {
@@ -3043,14 +3085,14 @@
     "rowClass": "forced flag-row",
     "cells": [
      "<b>8E.PTM2</b><span class=\"flag-badge exception\" title=\"Manual supervision exception: Saeed/cover starts P7; David Barton finishes supervision P8.\">EXCEPTION</span>",
-     "Saeed Smith",
+     "Sarum Shah",
      "Wed 17 Jun",
      "P7–P8<br/><small>12:20–13:40</small>",
      "PTM Part 2",
      "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
-     "P7 ENGLISH Sarum Shah — Saeed Smith covers/starts PTM2; P8 MATH David Barton finishes supervision",
+     "<span class=\"chip english\">P7 ENGLISH<br/><small>Sarum Shah starts PTM2</small></span><span class=\"chip maths\">P8 MATH<br/><small>David Barton finishes</small></span>",
      "manual change: Wed 17 Jun P7–P8; Saeed covers Sarum P7, David finishes supervision P8",
-     "Saeed Smith covers Sarum and starts 8E.PTM2 during P7; David Barton finishes supervision during P8."
+     "<span class=\"ok\">8E start PTM2 with Sarum Shah (P7); David Barton finishes (P8). No cover required.</span>"
     ]
    },
    {
