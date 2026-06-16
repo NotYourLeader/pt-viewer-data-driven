@@ -634,20 +634,6 @@
   {
    "code": "8C.PTE1",
    "date": "Tue 16 Jun",
-   "startPeriod": 8,
-   "endPeriod": 8,
-   "room": "F1-06",
-   "teacher": "Saeed Smith",
-   "type": "same",
-   "flag": {
-    "type": "cover",
-    "text": "P8 START",
-    "note": "Saeed Smith covered/started P8 (Sarum on Shadow Day); Sarum supervised Part 1. Part 2 rescheduled to Tue 23."
-   }
-  },
-  {
-   "code": "8C.PTE1",
-   "date": "Tue 16 Jun",
    "startPeriod": 9,
    "endPeriod": 10,
    "room": "F1-06",
@@ -689,7 +675,12 @@
    "endPeriod": 3,
    "room": "G2-01",
    "teacher": "Vanessa Pinto",
-   "type": "triple"
+   "type": "triple",
+   "flag": {
+    "type": "cover",
+    "text": "3-PERIOD",
+    "note": "Vanessa Pinto supervises all of P1–P3. Her P3 Media Arts class (10A–10D) is covered by Jairusha Jackson in F2-05."
+   }
   },
   {
    "code": "6D.PTEBOTH",
@@ -774,6 +765,20 @@
     "type": "cover",
     "text": "HANDOVER",
     "note": "Sarum Shah takes over supervision at P8 (her normal 8C English period); same room F1-10. Setup: 5 extra chairs needed in F1-10."
+   }
+  },
+  {
+   "code": "Media Arts cover",
+   "date": "Wed 17 Jun",
+   "startPeriod": 3,
+   "endPeriod": 3,
+   "room": "F2-05",
+   "teacher": "Jairusha Jackson",
+   "type": "crosscore",
+   "flag": {
+    "type": "cover",
+    "text": "COVER",
+    "note": "Jairusha Jackson supervises Vanessa Pinto's Media Arts class (10A–10D) in F2-05 at P3, so Vanessa can stay with the 9D.PTEBOTH test through P3. Jairusha is already in F2-05 for P1–P2 (DP2 Maths AI)."
    }
   },
   {
@@ -1251,6 +1256,10 @@
    {
     "period": "P8",
     "text": "Sarum Shah: 8C.PTE2"
+   },
+   {
+    "period": "P3",
+    "text": "Jairusha Jackson: Media Arts cover (F2-05)"
    }
   ],
   "Thu 18 Jun": [
@@ -1858,6 +1867,18 @@
    "normalTeacher": "Fiona/Zoe/Michelle",
    "destination": "B2-11",
    "instruction": "8A.PTS moved here because Wed 17 P3 is Grade 8 assembly."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 17 Jun",
+   "period": "P3",
+   "trigger": "9D.PTEBOTH",
+   "type": "Supervision cover",
+   "affected": "Media Arts (10A–10D)",
+   "normalLesson": "ARTS + DESIGN",
+   "normalTeacher": "Vanessa Pinto",
+   "destination": "F2-05",
+   "instruction": "Vanessa Pinto supervises 9D.PTEBOTH for the full P1–P3 block, so Jairusha Jackson covers Vanessa's P3 Media Arts class (10A–10D) in F2-05. Jairusha is already in F2-05 for P1–P2."
   }
  ],
  "leadership": {
