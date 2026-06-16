@@ -761,6 +761,19 @@ tr.rescheduled-pt td{
 .sort-th.desc::after{content:" \2193";color:var(--green)}
 .load-error{background:var(--red-lt);border:1px solid var(--red);border-radius:var(--radius);padding:24px;color:#7f1d1d;line-height:1.6}
 .load-error code{background:rgba(0,0,0,.06);padding:1px 5px;border-radius:4px;font-size:.92em}
+/* ---- collapsible day cards ---- */
+details.day-timeline-card{overflow:visible}
+.day-card-summary{display:flex;align-items:center;gap:12px;cursor:pointer;list-style:none;position:sticky;left:0;padding:10px 12px;background:inherit;border-bottom:1px solid #d0d5dd;user-select:none}
+.day-card-summary::-webkit-details-marker{display:none}
+.day-card-summary::before{content:"\25B8";display:inline-block;font-size:12px;color:var(--muted);transition:transform .15s;flex:0 0 auto}
+details[open] > .day-card-summary::before{transform:rotate(90deg)}
+.day-card-summary h3{position:static;margin:0;padding:0;border:0;background:none;text-transform:uppercase;letter-spacing:.02em;font-size:14px}
+.day-card-count{font-size:11px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em;margin-left:auto;padding-right:4px}
+.day-card-body{overflow:auto}
+details.day-timeline-card:not([open]){opacity:.72}
+details.day-timeline-card.day-card-next{outline:2px solid var(--green);outline-offset:-1px;opacity:1}
+.day-card-next .day-card-summary h3{color:var(--green-dk)}
+.day-card-next .day-card-count::after{content:" \00B7 next testing day";color:var(--green-dk)}
 </style>
 </head>
 <body>

@@ -65,3 +65,21 @@ Edit `meta.title`, `meta.subtitle`, and the `summary` block.
 The `staticSections` and `fullSchedule` blocks hold richer HTML that changes
 rarely; they can be edited too but aren't required for routine timing/room/cover
 updates.
+
+## Timeline: automatic focus on the next testing day
+
+When the page loads, the Timeline now:
+
+- **Collapses past days** — any day card dated before today is folded shut
+  (you can click its header to expand it again).
+- **Opens today and all future days.**
+- **Scrolls to the next testing day** — the soonest day (today or later) that
+  has at least one session — and highlights it with a green outline.
+
+This uses the device's current date. Each day card is a collapsible header
+showing the date and a session count; click any header to fold or unfold it.
+If every day is in the past (e.g. viewing an archived schedule), the view
+falls back to the last day that has sessions so you still land somewhere useful.
+
+No data editing is needed for this — it is purely display behaviour in
+`schedule.js`.

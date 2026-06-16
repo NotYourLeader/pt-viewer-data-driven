@@ -156,11 +156,18 @@
       return '<tr class="staff-row day-alt-' + altClass + '">' + cells + "</tr>";
     }).join("");
 
-    return '<div class="day-timeline-card day-alt-' + altClass + '"><h3>' + esc(date) + "</h3>" +
+    var sessionCount = daySessions.length;
+    var countLabel = sessionCount
+      ? sessionCount + (sessionCount === 1 ? " session" : " sessions")
+      : "no sessions";
+    return '<details class="day-timeline-card day-alt-' + altClass + '" data-date="' + esc(date) + '">' +
+      '<summary class="day-card-summary"><h3>' + esc(date) + "</h3>" +
+      '<span class="day-card-count">' + countLabel + "</span></summary>" +
+      '<div class="day-card-body">' +
       '<table class="span-timeline day-timeline-table staff-row-table">' +
       '<colgroup><col class="staff-name-col"/><col/><col/><col/><col class="break-col"/>' +
       '<col/><col/><col class="lunch-col"/><col/><col/><col/><col/></colgroup>' +
-      "<thead><tr>" + headCells + "</tr></thead><tbody>" + bodyRows + "</tbody></table></div>";
+      "<thead><tr>" + headCells + "</tr></thead><tbody>" + bodyRows + "</tbody></table></div></details>";
   }
 
   function renderTimeline(data) {
@@ -390,6 +397,50 @@
 
   /* ---------- MAIN ---------- */
 
+  /* ---------- COLLAPSE PAST DAYS, LAND ON NEXT TESTING DAY ---------- */
+
+  // A "testing day" is any day card that has at least one session.
+  // Past days (before today) are collapsed; today and future days stay open.
+  // The page then scrolls so the next testing day (today or the soonest future
+  // day with sessions) sits at the top of the view.
+  function focusNextTestingDay(data) {
+    var year = (data.meta && data.meta.year) || 2026;
+    var todayMs = new Date().setHours(0, 0, 0, 0);
+
+    var cards = [].slice.call(document.querySelectorAll(".day-timeline-card[data-date]"));
+    if (!cards.length) return;
+
+    var nextCard = null;
+    cards.forEach(function (card) {
+      var dateStr = card.getAttribute("data-date");
+      var dayMs = ptDate(dateStr, year);
+      var isPast = dayMs && dayMs < todayMs;
+      var hasSessions = card.querySelector(".staff-row") != null;
+
+      // collapse past days; keep today and future open
+      card.open = !isPast;
+
+      // the next testing day = earliest day that is today-or-later AND has sessions
+      if (!isPast && hasSessions && !nextCard) nextCard = card;
+    });
+
+    // if every day is in the past (e.g. viewing an old schedule), fall back to
+    // the last day that actually has sessions so the user still lands somewhere useful
+    if (!nextCard) {
+      for (var i = cards.length - 1; i >= 0; i--) {
+        if (cards[i].querySelector(".staff-row")) { nextCard = cards[i]; nextCard.open = true; break; }
+      }
+    }
+
+    if (nextCard) {
+      nextCard.classList.add("day-card-next");
+      // defer scroll until layout settles
+      requestAnimationFrame(function () {
+        nextCard.scrollIntoView({ behavior: "auto", block: "start" });
+      });
+    }
+  }
+
   function build(data) {
     renderHeader(data);
     var main = document.getElementById("app-main");
@@ -419,6 +470,9 @@
     // initialise first teacher/class view
     var ts = document.getElementById("teacherSelect"); if (ts && ts.options.length) window.showTeacher();
     var cs = document.getElementById("classSelect"); if (cs && cs.options.length) window.showClass();
+
+    // collapse past days and scroll to the next testing day
+    focusNextTestingDay(data);
   }
 
   function showError(msg) {
