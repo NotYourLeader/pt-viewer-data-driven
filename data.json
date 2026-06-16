@@ -1,0 +1,3336 @@
+{
+ "meta": {
+  "title": "MYP PT Schedule V2",
+  "subtitle": "Updated MYP PT Schedule V2: Thu 11 correction applied — 6E does not test on Thu 11; 7C goes directly to F2-07 with Natalie; 6E cover with Liam P4 only. 8A PTMBOTH Mon 22 update applied. PTE triple update applied. Shadow Day/G8 event update applied. Saeed Tue P8 / Sarum Wed cover update applied.",
+  "year": 2026
+ },
+ "summary": {
+  "metrics": [
+   {
+    "value": "82",
+    "label": "Scheduled sessions"
+   },
+   {
+    "value": "Thu 25 Jun",
+    "label": "Latest finish"
+   },
+   {
+    "value": "Tue 16 Jun P9–P10",
+    "label": "9A-D PTS"
+   },
+   {
+    "value": "31",
+    "label": "Protected triples"
+   },
+   {
+    "value": "35",
+    "label": "Teachers with impacts"
+   },
+   {
+    "value": "18",
+    "label": "Room relocations"
+   }
+  ],
+  "notes": [
+   {
+    "cls": "note",
+    "html": "<b>Source correction:</b> This version has been rechecked using <b>MYPXML 2025_26</b>, not the later-year timetable. The PT schedule windows were left unchanged because the viewer was already structured around the 10-period 2025_26 day."
+   },
+   {
+    "cls": "warn",
+    "html": "<b>David Barton corrections applied:</b> 8E no longer tests during Tue 9 P8. 8E are relocated to Science in B2-01 while David remains with 7B.PTMBOTH. 8E.PTM1 is now Wed 10 P8. 8E.PTM2 is now Wed 17 P7–P8 with Saeed/cover starting and David finishing supervision. 8F.PTM2 remains Wed 10 P9–P10 in F2-10. 8C.PTMBOTH has a P4 cover note because David is in Fire Training."
+   },
+   {
+    "cls": "warn",
+    "html": "<b>Blocked as overflow:</b> Arabic, UAESS, MSC, iStudy, PHE, Design, French and Spanish. <b>Allowed:</b> InS. <b>Exception:</b> 6G.PTEBOTH accepted."
+   },
+   {
+    "cls": "note",
+    "html": "<b>Cross-core supervision rule:</b> when a test continues into a second core subject lesson, the second-subject teacher may continue supervision of the testing class so the first teacher can return to normal timetable duties if required."
+   },
+   {
+    "cls": "update-note",
+    "html": "Schedule update v2: rejected the earlier 8D.PTM1 Tue P8 suggestion; added a split 7C make-up plan; all moved sessions now show “reprint codes” notes and clearer affected-lesson context."
+   },
+   {
+    "cls": "note",
+    "html": "<b>Wed 10 handover check:</b> Mohammed Gias M. Gias is normally with 8B for P3–P4 Maths only. The P5 period is 8B InS with Ashli Nelson, so Ashli should release Gias and supervise the final period of 8B.PTMBOTH in F2-06."
+   },
+   {
+    "cls": "note",
+    "html": "<b>7E.PTM2 update:</b> moved to Wed 10 Jun. Ryan Samuel starts the session during P1 in F2-07; Natalie Oliver-Caldwell continues during P2–P3 in F2-07."
+   },
+   {
+    "cls": "note",
+    "html": "<b>Thu 11 correction:</b> 6E.PTM2 removed from Thu 11. 7C.PTMBoth goes directly to F2-07 with Natalie from P4. 6E goes to Liam Melville for P4 cover only. 6E.PTM2 is moved to Thu 18 Jun P3–P4."
+   },
+   {
+    "cls": "note",
+    "html": "<b>8A PTM update:</b> Friday P3 8A.PTM1 and the separate Thu 25 8A.PTM2 moved session are replaced by one 8A.PTMBOTH session on Mon 22 Jun P8–P10 in F2-06."
+   },
+   {
+    "cls": "note",
+    "html": "<b>PTE triple update:</b> combined the available PTE doubles into protected triples where indicated. RED rows identify cover that is not clean because the displaced teacher still has other students to teach."
+   },
+   {
+    "cls": "warn",
+    "html": "<b>Lunch-span check for 8E–9B:</b> 8E and 8F still have PTE2 as a lunch-spanning double on Mon 22 P5/P7. 9A and 9B remain as Thu 25 P8–P10 blocks, so no lunch-spanning double is required for them."
+   },
+   {
+    "cls": "warn",
+    "html": "<b>Shadow Day / G8 availability update:</b> Tue 16 Shadow Day teachers are not available for PT coverage; Fri 19 P1–P3 is treated as a hard MYP assembly blackout; Wed 17 P3 Grade 8 assembly removes 8A.PTS from that slot."
+   }
+  ]
+ },
+ "dayOrder": [
+  "Mon 08 Jun",
+  "Tue 09 Jun",
+  "Wed 10 Jun",
+  "Thu 11 Jun",
+  "Fri 12 Jun",
+  "Mon 15 Jun",
+  "Tue 16 Jun",
+  "Wed 17 Jun",
+  "Thu 18 Jun",
+  "Fri 19 Jun",
+  "Mon 22 Jun",
+  "Tue 23 Jun",
+  "Wed 24 Jun",
+  "Thu 25 Jun"
+ ],
+ "dayMeta": {
+  "Mon 08 Jun": {
+   "alt": "a"
+  },
+  "Tue 09 Jun": {
+   "alt": "b"
+  },
+  "Wed 10 Jun": {
+   "alt": "a"
+  },
+  "Thu 11 Jun": {
+   "alt": "b"
+  },
+  "Fri 12 Jun": {
+   "alt": "a"
+  },
+  "Mon 15 Jun": {
+   "alt": "b"
+  },
+  "Tue 16 Jun": {
+   "alt": "a"
+  },
+  "Wed 17 Jun": {
+   "alt": "b"
+  },
+  "Thu 18 Jun": {
+   "alt": "a"
+  },
+  "Fri 19 Jun": {
+   "alt": "b"
+  },
+  "Mon 22 Jun": {
+   "alt": "a"
+  },
+  "Tue 23 Jun": {
+   "alt": "b"
+  },
+  "Wed 24 Jun": {
+   "alt": "a"
+  },
+  "Thu 25 Jun": {
+   "alt": "b"
+  }
+ },
+ "periodSequence": [
+  "P1",
+  "P2",
+  "P3",
+  "BREAK",
+  "P4",
+  "P5",
+  "LUNCH",
+  "P7",
+  "P8",
+  "P9",
+  "P10"
+ ],
+ "sessions": [
+  {
+   "code": "8F.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 1,
+   "endPeriod": 1,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "same"
+  },
+  {
+   "code": "8C.PTMBOTH",
+   "date": "Mon 08 Jun",
+   "startPeriod": 2,
+   "endPeriod": 4,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "triple",
+   "flag": {
+    "type": "cover",
+    "text": "COVER",
+    "note": "P4 cover needed: David Barton is in Fire Training during the final period of this PTM block."
+   }
+  },
+  {
+   "code": "8D.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 7,
+   "endPeriod": 7,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "same",
+   "cancelled": true
+  },
+  {
+   "code": "7A.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 10,
+   "endPeriod": 10,
+   "room": "F2-04",
+   "teacher": "Hashmi Salan Shameer",
+   "type": "same"
+  },
+  {
+   "code": "6B.PTMBOTH",
+   "date": "Mon 08 Jun",
+   "startPeriod": 1,
+   "endPeriod": 3,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "triple",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "7F.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 4,
+   "endPeriod": 4,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "6D.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 5,
+   "endPeriod": 5,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "7E.PTM1",
+   "date": "Mon 08 Jun",
+   "startPeriod": 3,
+   "endPeriod": 3,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "same"
+  },
+  {
+   "code": "7C.PTMBOTH",
+   "date": "Mon 08 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "triple",
+   "cancelled": true
+  },
+  {
+   "code": "6G.PTMBOTH",
+   "date": "Tue 09 Jun",
+   "startPeriod": 3,
+   "endPeriod": 5,
+   "room": "F2-07",
+   "teacher": "Natalie O → Lewis M",
+   "type": "triple",
+   "rowStaff": "Lewis Macdonald"
+  },
+  {
+   "code": "7A.PTM2",
+   "date": "Tue 09 Jun",
+   "startPeriod": 7,
+   "endPeriod": 8,
+   "room": "F2-04",
+   "teacher": "Hashmi Salan Shameer",
+   "type": "same"
+  },
+  {
+   "code": "7B.PTMBOTH",
+   "date": "Tue 09 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "triple"
+  },
+  {
+   "code": "8D.PTM1",
+   "date": "Tue 09 Jun",
+   "startPeriod": 9,
+   "endPeriod": 9,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "same"
+  },
+  {
+   "code": "9D.PTMBOTH",
+   "date": "Tue 09 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F2-05",
+   "teacher": "Jairusha Jackson",
+   "type": "triple"
+  },
+  {
+   "code": "9C.PTMBOTH",
+   "date": "Tue 09 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F2-08",
+   "teacher": "Lubna Jebril",
+   "type": "triple"
+  },
+  {
+   "code": "7F.PTM2",
+   "date": "Tue 09 Jun",
+   "startPeriod": 7,
+   "endPeriod": 8,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "6D.PTM2",
+   "date": "Tue 09 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "9A support",
+   "date": "Tue 09 Jun",
+   "startPeriod": 7,
+   "endPeriod": 7,
+   "room": "F2-05",
+   "teacher": "Quratul Ain",
+   "type": "crosscore"
+  },
+  {
+   "code": "7E.PTM2",
+   "date": "Wed 10 Jun",
+   "startPeriod": 1,
+   "endPeriod": 1,
+   "room": "F2-07",
+   "teacher": "Ryan Samuel → Natalie Oliver-Caldwell",
+   "type": "same",
+   "rowStaff": "Ryan Samuel"
+  },
+  {
+   "code": "6E.PTM1",
+   "date": "Wed 10 Jun",
+   "startPeriod": 7,
+   "endPeriod": 7,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "same"
+  },
+  {
+   "code": "6A.PTMBOTH",
+   "date": "Wed 10 Jun",
+   "startPeriod": 2,
+   "endPeriod": 4,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "triple",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "7D.PTM1",
+   "date": "Wed 10 Jun",
+   "startPeriod": 8,
+   "endPeriod": 8,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "8B.PTMBOTH",
+   "date": "Wed 10 Jun",
+   "startPeriod": 3,
+   "endPeriod": 5,
+   "room": "F2-06",
+   "teacher": "Gias P3–P4; Ashli P5",
+   "type": "triple",
+   "rowStaff": "Mohammed Gias M. Gias"
+  },
+  {
+   "code": "9B.PTMBOTH",
+   "date": "Wed 10 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "F2-07",
+   "teacher": "Hashmi Salan Shameer",
+   "type": "triple"
+  },
+  {
+   "code": "8E.PTM1",
+   "date": "Wed 10 Jun",
+   "startPeriod": 8,
+   "endPeriod": 8,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "same"
+  },
+  {
+   "code": "8F.PTM2",
+   "date": "Wed 10 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "F2-10",
+   "teacher": "David Barton",
+   "type": "same"
+  },
+  {
+   "code": "7C.PTMBOTH MOVED",
+   "date": "Thu 11 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "same"
+  },
+  {
+   "code": "6F.PTMBOTH",
+   "date": "Thu 11 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "triple"
+  },
+  {
+   "code": "7D.PTM2",
+   "date": "Thu 11 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "same",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "6C.PTMBOTH",
+   "date": "Thu 11 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F2-09",
+   "teacher": "Sunandhini  Subramanian",
+   "type": "triple",
+   "rowStaff": "Sunandhini Subramanian"
+  },
+  {
+   "code": "8B.PTS",
+   "date": "Mon 15 Jun",
+   "startPeriod": 2,
+   "endPeriod": 3,
+   "room": "B2-11",
+   "teacher": "Quratul Ain",
+   "type": "same",
+   "cancelled": true
+  },
+  {
+   "code": "7A.PTS",
+   "date": "Mon 15 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "B2-05 Lab 6 - Bio",
+   "teacher": "Azniv  Hovhannisyam",
+   "type": "same",
+   "rowStaff": "Azniv Hovhannisyam",
+   "cancelled": true
+  },
+  {
+   "code": "8F.PTE1",
+   "date": "Mon 15 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "C2-12",
+   "teacher": "Luke Clarke",
+   "type": "other",
+   "cancelled": true
+  },
+  {
+   "code": "9B.PTEBOTH",
+   "date": "Mon 15 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "triple",
+   "cancelled": true
+  },
+  {
+   "code": "9A.PTEBOTH",
+   "date": "Mon 15 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "F1-04",
+   "teacher": "Melanie Reeve",
+   "type": "triple",
+   "cancelled": true
+  },
+  {
+   "code": "8E.PTE1",
+   "date": "Mon 15 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "F1-06",
+   "teacher": "Shah Sarum",
+   "type": "same",
+   "cancelled": true
+  },
+  {
+   "code": "8A.PTM2",
+   "date": "Mon 15 Jun",
+   "startPeriod": 8,
+   "endPeriod": 9,
+   "room": "F2-06",
+   "teacher": "Mohammed Gias M. Gias",
+   "type": "same",
+   "cancelled": true
+  },
+  {
+   "code": "6B.PTEBOTH",
+   "date": "Tue 16 Jun",
+   "startPeriod": 3,
+   "endPeriod": 5,
+   "room": "F1-03",
+   "teacher": "Lewis Macdonald",
+   "type": "triple"
+  },
+  {
+   "code": "8A.PTEBOTH",
+   "date": "Tue 16 Jun",
+   "startPeriod": 1,
+   "endPeriod": 1,
+   "room": "F1-06",
+   "teacher": "Shah Sarum",
+   "type": "same"
+  },
+  {
+   "code": "7B.PTEBOTH",
+   "date": "Tue 16 Jun",
+   "startPeriod": 3,
+   "endPeriod": 5,
+   "room": "F1-07",
+   "teacher": "Sarah Taylor",
+   "type": "triple"
+  },
+  {
+   "code": "6A.PTE1",
+   "date": "Tue 16 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "F1-05",
+   "teacher": "Carole Morin",
+   "type": "crosscore"
+  },
+  {
+   "code": "6C.PTEBOTH",
+   "date": "Tue 16 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "triple"
+  },
+  {
+   "code": "9A.PTS",
+   "date": "Tue 16 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "Normal Science rooms",
+   "teacher": "Quratul Ain",
+   "type": "cohort"
+  },
+  {
+   "code": "9C.PTS",
+   "date": "Tue 16 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "Normal Science rooms",
+   "teacher": "Uchena Alli",
+   "type": "cohort"
+  },
+  {
+   "code": "9D.PTS",
+   "date": "Tue 16 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "Normal Science rooms",
+   "teacher": "Azniv Hovhannisyam",
+   "type": "cohort"
+  },
+  {
+   "code": "9B.PTS",
+   "date": "Tue 16 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "Normal Science rooms",
+   "teacher": "Liam Melville",
+   "type": "cohort"
+  },
+  {
+   "code": "8C.PTEBOTH",
+   "date": "Tue 16 Jun",
+   "startPeriod": 8,
+   "endPeriod": 8,
+   "room": "F1-06",
+   "teacher": "Saeed Smith",
+   "type": "same"
+  },
+  {
+   "code": "8C.PTS",
+   "date": "Wed 17 Jun",
+   "startPeriod": 1,
+   "endPeriod": 2,
+   "room": "B2-11",
+   "teacher": "Quratul Ain",
+   "type": "same"
+  },
+  {
+   "code": "7A.PTE1",
+   "date": "Wed 17 Jun",
+   "startPeriod": 1,
+   "endPeriod": 2,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "same"
+  },
+  {
+   "code": "6D.PTEBOTH",
+   "date": "Wed 17 Jun",
+   "startPeriod": 3,
+   "endPeriod": 3,
+   "room": "F1-08",
+   "teacher": "Cherisse → Saeed",
+   "type": "same",
+   "rowStaff": "Cherisse Corbie"
+  },
+  {
+   "code": "9D.PTEBOTH",
+   "date": "Wed 17 Jun",
+   "startPeriod": 1,
+   "endPeriod": 3,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "triple"
+  },
+  {
+   "code": "8E.PTM2",
+   "date": "Wed 17 Jun",
+   "startPeriod": 7,
+   "endPeriod": 8,
+   "room": "F2-10",
+   "teacher": "Saeed/cover → David Barton",
+   "type": "forced",
+   "rowStaff": "Saeed Smith",
+   "flag": {
+    "type": "exception",
+    "text": "EXCEPTION",
+    "note": "Manual supervision exception: Saeed/cover starts P7; David Barton finishes supervision P8."
+   }
+  },
+  {
+   "code": "7F.PTS",
+   "date": "Wed 17 Jun",
+   "startPeriod": 2,
+   "endPeriod": 3,
+   "room": "B2-06 Lab 7 - General",
+   "teacher": "Ryan Samuel",
+   "type": "same"
+  },
+  {
+   "code": "8D.PTEBOTH",
+   "date": "Wed 17 Jun",
+   "startPeriod": 7,
+   "endPeriod": 9,
+   "room": "F1-04",
+   "teacher": "Melanie Reeve",
+   "type": "triple"
+  },
+  {
+   "code": "6E.PTM2 MOVED",
+   "date": "Thu 18 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "F2-07",
+   "teacher": "Natalie Oliver-Caldwell",
+   "type": "same"
+  },
+  {
+   "code": "6G.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "F1-03",
+   "teacher": "Lewis Macdonald",
+   "type": "triple"
+  },
+  {
+   "code": "9C.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 1,
+   "endPeriod": 3,
+   "room": "F1-04",
+   "teacher": "Melanie Reeve",
+   "type": "triple"
+  },
+  {
+   "code": "7F.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 2,
+   "endPeriod": 4,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "triple"
+  },
+  {
+   "code": "7C.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 8,
+   "endPeriod": 8,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "same"
+  },
+  {
+   "code": "8D.PTS",
+   "date": "Thu 18 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "B2-11",
+   "teacher": "Uchena Alli",
+   "type": "crosscore"
+  },
+  {
+   "code": "8F.PTS",
+   "date": "Thu 18 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "B2-06 Lab 7 - General",
+   "teacher": "Elize Blignaut",
+   "type": "same"
+  },
+  {
+   "code": "7B.PTS",
+   "date": "Thu 18 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "B2-01 Lab 1 - Physics",
+   "teacher": "Liam Melville",
+   "type": "same"
+  },
+  {
+   "code": "8B.PTE1",
+   "date": "Thu 18 Jun",
+   "startPeriod": 7,
+   "endPeriod": 8,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "crosscore"
+  },
+  {
+   "code": "6E.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "F1-06",
+   "teacher": "Shah Sarum",
+   "type": "triple"
+  },
+  {
+   "code": "7E.PTEBOTH",
+   "date": "Thu 18 Jun",
+   "startPeriod": 3,
+   "endPeriod": 3,
+   "room": "F1-07",
+   "teacher": "Ranjini → Sarah",
+   "type": "same",
+   "rowStaff": "Ranjini Krishnan"
+  },
+  {
+   "code": "8B.PTE2",
+   "date": "Fri 19 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "other"
+  },
+  {
+   "code": "7E.PTS",
+   "date": "Fri 19 Jun",
+   "startPeriod": 4,
+   "endPeriod": 4,
+   "room": "B2-06",
+   "teacher": "Ryan Samuel → local cover",
+   "type": "same",
+   "rowStaff": "Ryan Samuel"
+  },
+  {
+   "code": "7A.PTE2",
+   "date": "Fri 19 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "F1-08",
+   "teacher": "Cherisse Corbie",
+   "type": "same"
+  },
+  {
+   "code": "8F.PTE2",
+   "date": "Mon 22 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "C2-12",
+   "teacher": "Luke Clarke",
+   "type": "other"
+  },
+  {
+   "code": "8E.PTE2",
+   "date": "Mon 22 Jun",
+   "startPeriod": 5,
+   "endPeriod": 7,
+   "room": "F1-06",
+   "teacher": "Shah Sarum",
+   "type": "same"
+  },
+  {
+   "code": "8A.PTMBOTH MOVED",
+   "date": "Mon 22 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "F2-06",
+   "teacher": "Mohammed Gias M. Gias",
+   "type": "same"
+  },
+  {
+   "code": "6F.PTEBOTH",
+   "date": "Tue 23 Jun",
+   "startPeriod": 3,
+   "endPeriod": 3,
+   "room": "F1-06",
+   "teacher": "Shah Sarum → Benjamin Gibson",
+   "type": "same",
+   "rowStaff": "Shah Sarum"
+  },
+  {
+   "code": "7D.PTEBOTH",
+   "date": "Tue 23 Jun",
+   "startPeriod": 1,
+   "endPeriod": 1,
+   "room": "F1-07",
+   "teacher": "Sarah Taylor",
+   "type": "same"
+  },
+  {
+   "code": "6A.PTE2",
+   "date": "Tue 23 Jun",
+   "startPeriod": 3,
+   "endPeriod": 4,
+   "room": "F1-05",
+   "teacher": "Carole Morin",
+   "type": "crosscore"
+  },
+  {
+   "code": "8B.PTS MOVED",
+   "date": "Wed 24 Jun",
+   "startPeriod": 1,
+   "endPeriod": 2,
+   "room": "B2-11",
+   "teacher": "Quratul Ain",
+   "type": "same"
+  },
+  {
+   "code": "7A.PTS MOVED",
+   "date": "Wed 24 Jun",
+   "startPeriod": 4,
+   "endPeriod": 5,
+   "room": "B2-11",
+   "teacher": "Azniv Hovhannisyam",
+   "type": "same"
+  },
+  {
+   "code": "8E.PTS",
+   "date": "Wed 24 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "B2-06 Lab 7 - General",
+   "teacher": "Elize Blignaut",
+   "type": "same"
+  },
+  {
+   "code": "7C.PTS",
+   "date": "Wed 24 Jun",
+   "startPeriod": 4,
+   "endPeriod": 4,
+   "room": "B2-01",
+   "teacher": "Cover/local → Liam Melville",
+   "type": "same",
+   "rowStaff": "Liam Melville"
+  },
+  {
+   "code": "8E.PTE1 MOVED",
+   "date": "Thu 25 Jun",
+   "startPeriod": 2,
+   "endPeriod": 3,
+   "room": "F1-06",
+   "teacher": "Shah Sarum",
+   "type": "same"
+  },
+  {
+   "code": "8D.PTM2 MOVED",
+   "date": "Thu 25 Jun",
+   "startPeriod": 8,
+   "endPeriod": 9,
+   "room": "B2-11",
+   "teacher": "Fiona/Zoe/Michelle affected",
+   "type": "same",
+   "rowStaff": "Yunxiu (Michelle) Cheng"
+  },
+  {
+   "code": "9B.PTEBOTH MOVED",
+   "date": "Thu 25 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "same"
+  },
+  {
+   "code": "9A.PTEBOTH MOVED",
+   "date": "Thu 25 Jun",
+   "startPeriod": 8,
+   "endPeriod": 10,
+   "room": "F1-04",
+   "teacher": "Melanie Reeve",
+   "type": "same"
+  },
+  {
+   "code": "8F.PTE1 MOVED",
+   "date": "Thu 25 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "C2-12",
+   "teacher": "Luke Clarke",
+   "type": "same"
+  },
+  {
+   "code": "7D.PTS",
+   "date": "Thu 25 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "B2-07 Lab 5 - General",
+   "teacher": "Ryan Samuel",
+   "type": "same"
+  },
+  {
+   "code": "8A.PTS",
+   "date": "Thu 25 Jun",
+   "startPeriod": 4,
+   "endPeriod": 4,
+   "room": "B2-11",
+   "teacher": "Uchena/Quratul cover",
+   "type": "same",
+   "rowStaff": "Quratul Ain"
+  }
+ ],
+ "periodLeaders": {
+  "Mon 08 Jun": [
+   {
+    "period": "P1",
+    "text": "Hashmi Salan Shameer: 6B.PTMBOTH, 8F.PTM1"
+   },
+   {
+    "period": "P2",
+    "text": "Barry Smyth: 8C.PTMBOTH"
+   },
+   {
+    "period": "P3",
+    "text": "Monica Lopez: 7E.PTM1"
+   },
+   {
+    "period": "P4",
+    "text": "Rob Paler: 7F.PTM1"
+   },
+   {
+    "period": "P5",
+    "text": "Hashmi Salan Shameer: 6D.PTM1"
+   },
+   {
+    "period": "P7",
+    "text": "Hashmi Salan Shameer: 7C.PTMBOTH, 8D.PTM1"
+   },
+   {
+    "period": "P10",
+    "text": "Hashmi Salan Shameer: 7A.PTM1"
+   }
+  ],
+  "Tue 09 Jun": [
+   {
+    "period": "P3",
+    "text": "Saeed Smith: 6G.PTMBOTH"
+   },
+   {
+    "period": "P7",
+    "text": "Hashmi Salan Shameer: 7A.PTM2 — self-start only; not available for other sessions"
+   },
+   {
+    "period": "P9",
+    "text": "Hashmi Salan Shameer: 6D.PTM2, 8D.PTM1"
+   }
+  ],
+  "Wed 10 Jun": [
+   {
+    "period": "P2",
+    "text": "Barry Smyth: 6A.PTMBOTH"
+   },
+   {
+    "period": "P3",
+    "text": "Hashmi Salan Shameer: 8B.PTMBOTH"
+   },
+   {
+    "period": "P4",
+    "text": "Hashmi Salan Shameer: 9B.PTMBOTH"
+   },
+   {
+    "period": "P7",
+    "text": "Hashmi Salan Shameer: 6E.PTM1"
+   },
+   {
+    "period": "P8",
+    "text": "Barry Smyth: 8E.PTM1"
+   },
+   {
+    "period": "P9",
+    "text": "Monica Lopez: 8F.PTM2"
+   }
+  ],
+  "Thu 11 Jun": [
+   {
+    "period": "P4",
+    "text": "Rob Paler: 7D.PTM2"
+   },
+   {
+    "period": "P7",
+    "text": "Hashmi Salan Shameer: 6C.PTMBOTH"
+   },
+   {
+    "period": "P8",
+    "text": "Hashmi Salan Shameer: 6F.PTMBOTH"
+   }
+  ],
+  "Mon 15 Jun": [
+   {
+    "period": "P2",
+    "text": "Saeed Smith: 8B.PTS"
+   },
+   {
+    "period": "P3",
+    "text": "Uchena Alli: 7A.PTS"
+   },
+   {
+    "period": "P5",
+    "text": "Barry Smyth: 9A.PTEBOTH"
+   },
+   {
+    "period": "P8",
+    "text": "Hashmi Salan Shameer: 8A.PTM2"
+   }
+  ],
+  "Tue 16 Jun": [
+   {
+    "period": "P1",
+    "text": "Lewis Macdonald: 7D.PTE1, 8A.PTE1"
+   },
+   {
+    "period": "P3",
+    "text": "Lewis Macdonald: 6B.PTEBOTH"
+   },
+   {
+    "period": "P7",
+    "text": "Lewis Macdonald: 6C.PTEBOTH"
+   },
+   {
+    "period": "P8",
+    "text": "Saeed Smith: 8C.PTEBOTH start"
+   },
+   {
+    "period": "P9",
+    "text": "Barry Smyth: 9C.PTS"
+   }
+  ],
+  "Wed 17 Jun": [
+   {
+    "period": "P1",
+    "text": "Lewis Macdonald: 7A.PTE1, 9D.PTEBOTH"
+   },
+   {
+    "period": "P2",
+    "text": "Barry Smyth: 7F.PTS"
+   },
+   {
+    "period": "P3",
+    "text": "Monica Lopez: 6D.PTE1"
+   },
+   {
+    "period": "P7",
+    "text": "Lewis Macdonald: 8D.PTEBOTH"
+   }
+  ],
+  "Thu 18 Jun": [
+   {
+    "period": "P1",
+    "text": "Lewis Macdonald: 9C.PTEBOTH"
+   },
+   {
+    "period": "P2",
+    "text": "Lewis Macdonald: 7F.PTEBOTH"
+   },
+   {
+    "period": "P3",
+    "text": "Rob Paler: 8F.PTS"
+   },
+   {
+    "period": "P4",
+    "text": "Barry Smyth: 7E.PTE1"
+   },
+   {
+    "period": "P7",
+    "text": "Monica Lopez: 8B.PTE1"
+   },
+   {
+    "period": "P8",
+    "text": "Lewis Macdonald: 6G.PTEBOTH"
+   },
+   {
+    "period": "P9",
+    "text": "Barry Smyth: 7C.PTE1"
+   }
+  ],
+  "Fri 19 Jun": [
+   {
+    "period": "P2",
+    "text": "Uchena Alli: 7C.PTS"
+   },
+   {
+    "period": "P3",
+    "text": "Monica Lopez: 6F.PTE1"
+   },
+   {
+    "period": "P4",
+    "text": "Lewis Macdonald: 7A.PTE2"
+   }
+  ],
+  "Mon 22 Jun": [
+   {
+    "period": "P4",
+    "text": "Lewis Macdonald: 6D.PTE2"
+   },
+   {
+    "period": "P5",
+    "text": "Lewis Macdonald: 8E.PTE2, 8F.PTE2"
+   },
+   {
+    "period": "P8",
+    "text": "Hashmi Salan Shameer: 8A.PTMBOTH MOVED"
+   }
+  ],
+  "Tue 23 Jun": [
+   {
+    "period": "P1",
+    "text": "Lewis Macdonald: 7D.PTE2, 8A.PTE2"
+   },
+   {
+    "period": "P3",
+    "text": "Monica Lopez: 6A.PTE2"
+   },
+   {
+    "period": "P4",
+    "text": "Barry Smyth: 7C.PTE2"
+   },
+   {
+    "period": "P7",
+    "text": "Lewis Macdonald: 7E.PTE2"
+   },
+   {
+    "period": "P9",
+    "text": "Saeed Smith: 8C.PTE2"
+   }
+  ],
+  "Wed 24 Jun": [
+   {
+    "period": "P1",
+    "text": "Saeed Smith: 8B.PTS MOVED"
+   },
+   {
+    "period": "P4",
+    "text": "Uchena Alli: 7A.PTS MOVED"
+   },
+   {
+    "period": "P9",
+    "text": "Barry Smyth: 8E.PTS"
+   }
+  ],
+  "Thu 25 Jun": [
+   {
+    "period": "P2",
+    "text": "Lewis Macdonald: 8E.PTE1 MOVED"
+   },
+   {
+    "period": "P8",
+    "text": "Barry Smyth: 9A.PTEBOTH MOVED"
+   },
+   {
+    "period": "P9",
+    "text": "Monica Lopez: 7D.PTS"
+   }
+  ]
+ },
+ "cover": [
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 09 Jun",
+   "period": "P7",
+   "trigger": "9A support",
+   "type": "Supervision support",
+   "affected": "9A",
+   "normalLesson": "PTM support",
+   "normalTeacher": "Quratul Ain",
+   "destination": "F2-05",
+   "instruction": "Quratul Ain supports 9A during P7 in Jairusha Jackson's room; Jairusha is released for this period."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 10 Jun",
+   "period": "P1",
+   "trigger": "7E.PTM2",
+   "type": "Supervision start",
+   "affected": "7E",
+   "normalLesson": "PTM2 start",
+   "normalTeacher": "Ryan Samuel → Natalie Oliver-Caldwell",
+   "destination": "F2-07",
+   "instruction": "7E starts PTM2 with Ryan Samuel in F2-07 during P1. Natalie Oliver-Caldwell continues the session during P2–P3 in F2-07."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Mon 08 Jun",
+   "period": "P3",
+   "trigger": "6B.PTMBOTH",
+   "type": "Cover/substitution",
+   "affected": "7B",
+   "normalLesson": "CONNECTED",
+   "normalTeacher": "Sunandhini Subramanian",
+   "destination": "E2-09 (INS with Benjamin Gibson)",
+   "instruction": "7B go to E2-09 with Benjamin Gibson. Sunandhini Subramanian stays with 6B.PTMBOTH in F2-09."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Mon 08 Jun",
+   "period": "P4",
+   "trigger": "8C.PTMBOTH",
+   "type": "Cover required",
+   "affected": "8C",
+   "normalLesson": "PTM supervision",
+   "normalTeacher": "David Barton unavailable",
+   "destination": "F2-10",
+   "instruction": "Cover needed for 8C.PTMBOTH at P4 because David Barton is in Fire Training."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 09 Jun",
+   "period": "P5",
+   "trigger": "6G.PTMBOTH",
+   "type": "Supervision handover + room move",
+   "affected": "6G / DP1",
+   "normalLesson": "6G ENGLISH + DP1 MATH AI",
+   "normalTeacher": "Lewis Macdonald / Hashmi Salan Shameer / Natalie Oliver-Caldwell",
+   "destination": "6G remains F2-07; DP1 MATH AI → F1-03",
+   "instruction": "Lewis Macdonald takes over supervision of 6G in F2-07. Natalie Oliver-Caldwell returns to DP1 MATH AI with Hashmi; DP1 uses F1-03 released by 6G. Other Maths rooms are occupied at P5; B2-11/C2-11 are free backups."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Tue 09 Jun",
+   "period": "P7",
+   "trigger": "9C.PTMBOTH",
+   "type": "Room move",
+   "affected": "9D",
+   "normalLesson": "MATH",
+   "normalTeacher": "Jairusha Jackson",
+   "destination": "F2-08",
+   "instruction": "9D move to F2-08. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Tue 09 Jun",
+   "period": "P8",
+   "trigger": "7B.PTMBOTH",
+   "type": "Cover/substitution",
+   "affected": "8E",
+   "normalLesson": "MATH",
+   "normalTeacher": "David Barton",
+   "destination": "B2-01 Lab 1 - Physics (SCIENCE with Liam Melville)",
+   "instruction": "8E go to B2-01 Lab 1 - Physics; Liam Melville receives/covers them. David Barton remains committed to 7B.PTMBOTH in F2-10."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Tue 09 Jun",
+   "period": "P8",
+   "trigger": "9C.PTMBOTH",
+   "type": "Room move",
+   "affected": "9D",
+   "normalLesson": "MATH",
+   "normalTeacher": "Jairusha Jackson",
+   "destination": "F2-08",
+   "instruction": "9D move to F2-08. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Wed 10 Jun",
+   "period": "P4",
+   "trigger": "6A.PTMBOTH",
+   "type": "Cover/substitution",
+   "affected": "6C",
+   "normalLesson": "MATH",
+   "normalTeacher": "Sunandhini Subramanian",
+   "destination": "E2-09 (INS with Benjamin Gibson)",
+   "instruction": "6C go to E2-09; Benjamin Gibson receives/covers them. Sunandhini Subramanian remains committed to 6A.PTMBOTH in F2-09."
+  },
+  {
+   "rowClass": "manualcoverevent manual-gias-handover",
+   "date": "Wed 10 Jun",
+   "period": "P5",
+   "trigger": "8B.PTMBOTH",
+   "type": "Supervision handover",
+   "affected": "8B",
+   "normalLesson": "INS",
+   "normalTeacher": "Ashli Nelson",
+   "destination": "F2-06",
+   "instruction": "Ashli Nelson is the normal P5 teacher for 8B and should release Mohammed Gias M. Gias at P5. Gias supervises the normal Maths periods P3–P4 only; Ashli supervises/invigilates the final P5 period in F2-06."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Thu 11 Jun",
+   "period": "P9",
+   "trigger": "6C.PTMBOTH",
+   "type": "Cover/substitution",
+   "affected": "6D",
+   "normalLesson": "MATH",
+   "normalTeacher": "Sunandhini Subramanian",
+   "destination": "B2-06 Lab 7 - General (SCIENCE with Elize Blignaut)",
+   "instruction": "6D go to B2-06 Lab 7 - General; Elize Blignaut receives/covers them. Sunandhini Subramanian remains committed to 6C.PTMBOTH in F2-09."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Tue 16 Jun",
+   "period": "P5",
+   "trigger": "6B.PTEBOTH",
+   "type": "Cover/substitution",
+   "affected": "6G",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Lewis Macdonald",
+   "destination": "F2-09 (MATH with Sunandhini Subramanian)",
+   "instruction": "6G go to F2-09; Sunandhini Subramanian receives/covers them. Lewis Macdonald remains committed to 6B.PTEBOTH in F1-03."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 17 Jun",
+   "period": "P7",
+   "trigger": "8E.PTM2",
+   "type": "Cover/start",
+   "affected": "8E",
+   "normalLesson": "ENGLISH / PTM supervision start",
+   "normalTeacher": "Shah Sarum",
+   "destination": "Saeed Smith",
+   "instruction": "Saeed Smith covers Sarum and starts 8E.PTM2 during P7; David Barton finishes supervision during P8."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Thu 18 Jun",
+   "period": "P3",
+   "trigger": "9C.PTEBOTH",
+   "type": "Cover/substitution",
+   "affected": "DP1",
+   "normalLesson": "English A (Lang &amp; Lit)",
+   "normalTeacher": "Lewis Macdonald, Melanie Reeve",
+   "destination": "B2-07 Lab 5 - General (SCIENCE with Quratul Ain, Liam Melville, Uchena Alli, Azniv Hovhannisyam)",
+   "instruction": "DP1 go to B2-07 Lab 5 - General; Quratul Ain, Liam Melville, Uchena Alli, Azniv Hovhannisyam receives/covers them. Lewis Macdonald, Melanie Reeve remains committed to 9C.PTEBOTH in F1-04."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Thu 18 Jun",
+   "period": "P4",
+   "trigger": "7F.PTEBOTH",
+   "type": "Cover/substitution",
+   "affected": "7A",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Cherisse Corbie",
+   "destination": "B2-07 Lab 5 - General (SCIENCE with Ryan Samuel)",
+   "instruction": "7A go to B2-07 Lab 5 - General; Ryan Samuel receives/covers them. Cherisse Corbie remains committed to 7F.PTEBOTH in F1-08."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Fri 19 Jun",
+   "period": "P4",
+   "trigger": "8B.PTE2",
+   "type": "Room move",
+   "affected": "9D",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Vanessa Pinto",
+   "destination": "C2-11 — Anna Shishikura's room",
+   "instruction": "9D move to C2-11 — Anna Shishikura's room. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Mon 22 Jun",
+   "period": "P5",
+   "trigger": "8F.PTE2",
+   "type": "Room move",
+   "affected": "7A",
+   "normalLesson": "MSCB",
+   "normalTeacher": "Anna Shishikura",
+   "destination": "C2-11 — Anna Shishikura's room",
+   "instruction": "7A move to C2-11 — Anna Shishikura's room. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Mon 22 Jun",
+   "period": "P5",
+   "trigger": "8F.PTE2",
+   "type": "Room move",
+   "affected": "7B",
+   "normalLesson": "MSCB",
+   "normalTeacher": "Anna Shishikura",
+   "destination": "C2-11 — Anna Shishikura's room",
+   "instruction": "7B move to C2-11 — Anna Shishikura's room. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "roommoveevent",
+   "date": "Mon 22 Jun",
+   "period": "P5",
+   "trigger": "8F.PTE2",
+   "type": "Room move",
+   "affected": "7C",
+   "normalLesson": "MSCB",
+   "normalTeacher": "Anna Shishikura",
+   "destination": "C2-11 — Anna Shishikura's room",
+   "instruction": "7C move to C2-11 — Anna Shishikura's room. This appears to be a room-only relocation unless a covering teacher is added locally."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Mon 22 Jun",
+   "period": "P8–P10",
+   "trigger": "8A.PTMBOTH MOVED",
+   "type": "Affected lesson",
+   "affected": "8A",
+   "normalLesson": "MATH / DESIGN + INNOV",
+   "normalTeacher": "Mohammed Gias M. Gias / Oliver Pennington / Shubhrum Pun",
+   "destination": "F2-06",
+   "instruction": "8A sit PTMBoth in one sitting. P8–P9 are normal Maths in F2-06; P10 uses F2-06 as a free room. Reprint codes."
+  },
+  {
+   "rowClass": "coverevent",
+   "date": "Tue 23 Jun",
+   "period": "P4",
+   "trigger": "6F.PTE2",
+   "type": "Cover/substitution",
+   "affected": "8E",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Shah Sarum",
+   "destination": "E2-09 (INS with Benjamin Gibson)",
+   "instruction": "8E go to E2-09; Benjamin Gibson receives/covers them. Shah Sarum remains committed to 6F.PTE2 in F1-06."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 24 Jun",
+   "period": "P1–P2",
+   "trigger": "8B.PTS MOVED",
+   "type": "Affected lesson",
+   "affected": "8B",
+   "normalLesson": "PHE",
+   "normalTeacher": "Dana Hinton / Stephen Whitley",
+   "destination": "B2-11",
+   "instruction": "8B misses PHE to sit PTS. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 24 Jun",
+   "period": "P4–P5",
+   "trigger": "7A.PTS MOVED",
+   "type": "Affected lesson",
+   "affected": "7A",
+   "normalLesson": "DESIGN + INNOV",
+   "normalTeacher": "Charlene Mae Teresa / Joanne Kennedy",
+   "destination": "B2-11",
+   "instruction": "7A misses Design + Innov to sit PTS. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 11 Jun",
+   "period": "P4, P5, P7",
+   "trigger": "7C.PTMBOTH MOVED",
+   "type": "Testing block",
+   "affected": "7C",
+   "normalLesson": "MATH",
+   "normalTeacher": "Natalie Oliver-Caldwell",
+   "destination": "F2-07 throughout",
+   "instruction": "7C go directly to F2-07 with Natalie Oliver-Caldwell for PTMBoth. Liam Melville covers 6E during P4. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P2–P3",
+   "trigger": "8E.PTE1 MOVED",
+   "type": "Affected lesson",
+   "affected": "8E",
+   "normalLesson": "ENGLISH / INS",
+   "normalTeacher": "Shah Sarum / Kellee Kryba",
+   "destination": "F1-06",
+   "instruction": "8E misses English then InS to sit PTE1. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P8–P9",
+   "trigger": "8D.PTM2 MOVED",
+   "type": "Affected lesson",
+   "affected": "8D",
+   "normalLesson": "THE ARTS",
+   "normalTeacher": "Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng",
+   "destination": "B2-11",
+   "instruction": "8D misses The Arts to sit PTM2. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P8–P10",
+   "trigger": "9A.PTEBOTH MOVED",
+   "type": "Affected lesson",
+   "affected": "9A",
+   "normalLesson": "INS / ENGLISH",
+   "normalTeacher": "Benjamin Gibson / Melanie Reeve",
+   "destination": "F1-04",
+   "instruction": "9A misses InS/InS/English to sit PTE. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P8–P10",
+   "trigger": "9B.PTEBOTH MOVED",
+   "type": "Affected lesson",
+   "affected": "9B",
+   "normalLesson": "INS / ENGLISH",
+   "normalTeacher": "David Woodward / Vanessa Pinto",
+   "destination": "G2-01",
+   "instruction": "9B misses InS/InS/English to sit PTE. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P9–P10",
+   "trigger": "8F.PTE1 MOVED",
+   "type": "Affected lesson",
+   "affected": "8F",
+   "normalLesson": "THE ARTS / ENGLISH",
+   "normalTeacher": "Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng / Luke Clarke",
+   "destination": "C2-12",
+   "instruction": "8F misses Arts then English to sit PTE1. No other class moved. Reprint codes."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 16 Jun",
+   "period": "P9",
+   "trigger": "6C.PTEBOTH",
+   "type": "Cover release",
+   "affected": "6C",
+   "normalLesson": "INS",
+   "normalTeacher": "David Woodward",
+   "destination": "F1-08 / E2-10",
+   "instruction": "David Woodward releases Cherisse Corbie for P9 and supervises final PTE period."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 17 Jun",
+   "period": "P5",
+   "trigger": "6D.PTEBOTH",
+   "type": "Cover",
+   "affected": "6D",
+   "normalLesson": "ARABIC",
+   "normalTeacher": "Saeed Smith",
+   "destination": "F1-08",
+   "instruction": "Saeed supervises P5 while Arabic teachers continue teaching the remaining students."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 16 Jun",
+   "period": "P5",
+   "trigger": "7B.PTEBOTH",
+   "type": "Release",
+   "affected": "7B",
+   "normalLesson": "MATH",
+   "normalTeacher": "David Barton",
+   "destination": "F1-07 / F2-10",
+   "instruction": "David Barton releases Sarah Taylor for the third period of 7B.PTEBOTH."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 18 Jun",
+   "period": "P3",
+   "trigger": "7E.PTEBOTH",
+   "type": "Start cover",
+   "affected": "7E",
+   "normalLesson": "INS",
+   "normalTeacher": "Ranjini Krishnan",
+   "destination": "F1-07",
+   "instruction": "Ranjini starts/supervises P3 because Sarah Taylor has 10A; Sarah continues P4–P5."
+  },
+  {
+   "rowClass": "red-risk",
+   "date": "Thu 18 Jun",
+   "period": "P8",
+   "trigger": "7C.PTEBOTH",
+   "type": "RED cover",
+   "affected": "6D",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Cover needed",
+   "destination": "F1-08",
+   "instruction": "RED: 6D needs cover while Cherisse starts 7C; UAESS teacher still has 7A/7B/iStudy students."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 23 Jun",
+   "period": "P3",
+   "trigger": "7D.PTEBOTH",
+   "type": "Cover/move",
+   "affected": "7B",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Cover needed",
+   "destination": "F1-07",
+   "instruction": "7B need to be covered and moved for P3 because Sarah remains with 7D."
+  },
+  {
+   "rowClass": "red-risk",
+   "date": "Tue 16 Jun",
+   "period": "P3",
+   "trigger": "8A.PTEBOTH",
+   "type": "RED cover",
+   "affected": "6F",
+   "normalLesson": "ENGLISH",
+   "normalTeacher": "Cover needed",
+   "destination": "F1-06",
+   "instruction": "RED: 6F need cover because Shah Sarum continues 8A.PTEBOTH; UAESS teacher still has remaining students."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 16 Jun",
+   "period": "P8",
+   "trigger": "8C.PTEBOTH",
+   "type": "Shadow Day cover",
+   "affected": "8C",
+   "normalLesson": "PHE Theory",
+   "normalTeacher": "Saeed Smith",
+   "destination": "F1-06",
+   "instruction": "Sarum is unavailable at P8 due Shadow Day. Saeed Smith covers/starts the session; Sarum resumes P9–P10."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Tue 23 Jun",
+   "period": "P4–P5",
+   "trigger": "6F.PTEBOTH",
+   "type": "Continuation cover",
+   "affected": "6F",
+   "normalLesson": "INS",
+   "normalTeacher": "Benjamin Gibson",
+   "destination": "F1-06",
+   "instruction": "Benjamin Gibson continues the PTE after Shah starts it during P3 English."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Wed 24 Jun",
+   "period": "P4",
+   "trigger": "7C.PTS",
+   "type": "Cover/move",
+   "affected": "7C",
+   "normalLesson": "Language block",
+   "normalTeacher": "Cover needed locally",
+   "destination": "B2-01",
+   "instruction": "7C moved from Fri assembly blackout. P4 language groups need local management; P5 is Liam science."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Fri 19 Jun",
+   "period": "P5",
+   "trigger": "7E.PTS",
+   "type": "Cover/move",
+   "affected": "7E",
+   "normalLesson": "Language block",
+   "normalTeacher": "Cover needed locally",
+   "destination": "B2-06",
+   "instruction": "PTS shifted to P4–P5 after MYP assembly blackout; P5 language groups need local management."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Fri 19 Jun",
+   "period": "P5",
+   "trigger": "8B.PTE2",
+   "type": "Continuation cover",
+   "affected": "8B",
+   "normalLesson": "INS",
+   "normalTeacher": "Ashli Nelson",
+   "destination": "G2-01",
+   "instruction": "8B PTE2 shifted to P4–P5. Ashli can continue supervision during P5 InS."
+  },
+  {
+   "rowClass": "manualcoverevent",
+   "date": "Thu 25 Jun",
+   "period": "P4–P5",
+   "trigger": "8A.PTS",
+   "type": "Affected lesson",
+   "affected": "8A",
+   "normalLesson": "THE ARTS",
+   "normalTeacher": "Fiona/Zoe/Michelle",
+   "destination": "B2-11",
+   "instruction": "8A.PTS moved here because Wed 17 P3 is Grade 8 assembly."
+  }
+ ],
+ "leadership": {
+  "headers": [
+   "Date",
+   "Period",
+   "Leader",
+   "Responsibility",
+   "Mobile load"
+  ],
+  "rows": [
+   [
+    "Mon 08 Jun",
+    "P1",
+    "Hashmi Salan Shameer",
+    "6B.PTMBOTH, 8F.PTM1",
+    "2"
+   ],
+   [
+    "Mon 08 Jun",
+    "P2",
+    "Barry Smyth",
+    "8C.PTMBOTH",
+    "1"
+   ],
+   [
+    "Mon 08 Jun",
+    "P3",
+    "Monica Lopez",
+    "7E.PTM1",
+    "1"
+   ],
+   [
+    "Mon 08 Jun",
+    "P4",
+    "Rob Paler",
+    "7F.PTM1",
+    "1"
+   ],
+   [
+    "Mon 08 Jun",
+    "P5",
+    "Hashmi Salan Shameer",
+    "6D.PTM1",
+    "1"
+   ],
+   [
+    "Mon 08 Jun",
+    "P7",
+    "Hashmi Salan Shameer",
+    "7C.PTMBOTH, 8D.PTM1",
+    "2"
+   ],
+   [
+    "Mon 08 Jun",
+    "P10",
+    "Hashmi Salan Shameer",
+    "7A.PTM1",
+    "1"
+   ],
+   [
+    "Tue 09 Jun",
+    "P3",
+    "Saeed Smith",
+    "6G.PTMBOTH",
+    "1"
+   ],
+   [
+    "Tue 09 Jun",
+    "P7",
+    "Hashmi Salan Shameer",
+    "7A.PTM2 — self-start only; not available for other sessions",
+    "Self"
+   ],
+   [
+    "Tue 09 Jun",
+    "P7",
+    "Saeed Smith",
+    "7F.PTM2, 9D.PTMBOTH",
+    "2"
+   ],
+   [
+    "Tue 09 Jun",
+    "P7",
+    "Monica Lopez",
+    "9C.PTMBOTH",
+    "1"
+   ],
+   [
+    "Tue 09 Jun",
+    "P9",
+    "Hashmi Salan Shameer",
+    "6D.PTM2, 8D.PTM1",
+    "2"
+   ],
+   [
+    "Wed 10 Jun",
+    "P2",
+    "Barry Smyth",
+    "6A.PTMBOTH",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P3",
+    "Hashmi Salan Shameer",
+    "8B.PTMBOTH",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P4",
+    "Hashmi Salan Shameer",
+    "9B.PTMBOTH",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P7",
+    "Hashmi Salan Shameer",
+    "6E.PTM1",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P8",
+    "Barry Smyth",
+    "8E.PTM1",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P8",
+    "Saeed Smith",
+    "7D.PTM1",
+    "1"
+   ],
+   [
+    "Wed 10 Jun",
+    "P9",
+    "Monica Lopez",
+    "8F.PTM2",
+    "1"
+   ],
+   [
+    "Thu 11 Jun",
+    "P4",
+    "Rob Paler",
+    "7D.PTM2",
+    "1"
+   ],
+   [
+    "Thu 11 Jun",
+    "P7",
+    "Hashmi Salan Shameer",
+    "6C.PTMBOTH",
+    "1"
+   ],
+   [
+    "Thu 11 Jun",
+    "P8",
+    "Hashmi Salan Shameer",
+    "6F.PTMBOTH",
+    "1"
+   ],
+   [
+    "Mon 15 Jun",
+    "P2",
+    "Saeed Smith",
+    "8B.PTS",
+    "1"
+   ],
+   [
+    "Mon 15 Jun",
+    "P3",
+    "Uchena Alli",
+    "7A.PTS",
+    "1"
+   ],
+   [
+    "Mon 15 Jun",
+    "P5",
+    "Barry Smyth",
+    "9A.PTEBOTH",
+    "1"
+   ],
+   [
+    "Mon 15 Jun",
+    "P5",
+    "Lewis Macdonald",
+    "8E.PTE1, 8F.PTE1",
+    "2"
+   ],
+   [
+    "Mon 15 Jun",
+    "P5",
+    "Monica Lopez",
+    "9B.PTEBOTH",
+    "1"
+   ],
+   [
+    "Mon 15 Jun",
+    "P8",
+    "Hashmi Salan Shameer",
+    "8A.PTM2",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P3",
+    "Lewis Macdonald",
+    "6B.PTEBOTH",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P3",
+    "Rob Paler",
+    "6A.PTE1",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P3",
+    "Saeed Smith",
+    "7B.PTEBOTH",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P7",
+    "Lewis Macdonald",
+    "6C.PTEBOTH",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P9",
+    "Barry Smyth",
+    "9C.PTS",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P9",
+    "Monica Lopez",
+    "9D.PTS",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P8",
+    "Saeed Smith",
+    "8C.PTEBOTH — Saeed covers/starts P8; Sarum P9–P10",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P9",
+    "Uchena Alli",
+    "9A.PTS, 9B.PTS",
+    "2"
+   ],
+   [
+    "Wed 17 Jun",
+    "P1",
+    "Lewis Macdonald",
+    "7A.PTE1, 9D.PTEBOTH",
+    "2"
+   ],
+   [
+    "Wed 17 Jun",
+    "P1",
+    "Saeed Smith",
+    "8C.PTS",
+    "1"
+   ],
+   [
+    "Wed 17 Jun",
+    "P2",
+    "Barry Smyth",
+    "7F.PTS",
+    "1"
+   ],
+   [
+    "Wed 17 Jun",
+    "P3",
+    "Saeed Smith",
+    "6D.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P4",
+    "Uchena Alli",
+    "8A.PTS MOVED",
+    "1"
+   ],
+   [
+    "Wed 17 Jun",
+    "P7",
+    "Lewis Macdonald",
+    "8D.PTEBOTH",
+    "1"
+   ],
+   [
+    "Wed 17 Jun",
+    "P7",
+    "Saeed Smith",
+    "8E.PTM2 — Saeed covers Sarum P7; David finishes P8",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P3",
+    "Hashmi Salan Shameer",
+    "6E.PTM2 MOVED — start in F2-07",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P1",
+    "Lewis Macdonald",
+    "9C.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P2",
+    "Lewis Macdonald",
+    "7F.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P3",
+    "Rob Paler",
+    "8F.PTS",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P3",
+    "Barry Smyth / Ranjini Krishnan",
+    "7E.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P4",
+    "Uchena Alli",
+    "8D.PTS",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P7",
+    "Monica Lopez",
+    "8B.PTE1",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P8",
+    "Lewis Macdonald",
+    "6G.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P8",
+    "Rob Paler",
+    "6E.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P8",
+    "Barry Smyth",
+    "7C.PTEBOTH",
+    "1"
+   ],
+   [
+    "Thu 18 Jun",
+    "P9",
+    "Saeed Smith",
+    "7B.PTS",
+    "1"
+   ],
+   [
+    "Wed 24 Jun",
+    "P4",
+    "Uchena Alli",
+    "7C.PTS MOVED — start P4; Liam continues P5",
+    "1"
+   ],
+   [
+    "Tue 23 Jun",
+    "P3",
+    "Monica Lopez",
+    "6F.PTEBOTH MOVED",
+    "1"
+   ],
+   [
+    "Fri 19 Jun",
+    "P4",
+    "Rob Paler",
+    "7E.PTS MOVED",
+    "1"
+   ],
+   [
+    "Fri 19 Jun",
+    "P4",
+    "Saeed Smith",
+    "8B.PTE2 MOVED",
+    "1"
+   ],
+   [
+    "Fri 19 Jun",
+    "P4",
+    "Lewis Macdonald",
+    "7A.PTE2",
+    "1"
+   ],
+   [
+    "Mon 22 Jun",
+    "P5",
+    "Lewis Macdonald",
+    "8E.PTE2, 8F.PTE2",
+    "2"
+   ],
+   [
+    "Mon 22 Jun",
+    "P8",
+    "Hashmi Salan Shameer",
+    "8A.PTMBOTH MOVED",
+    "1"
+   ],
+   [
+    "Tue 23 Jun",
+    "P3",
+    "Monica Lopez",
+    "6A.PTE2",
+    "1"
+   ],
+   [
+    "Wed 24 Jun",
+    "P9",
+    "Barry Smyth",
+    "8E.PTS",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P9",
+    "Monica Lopez",
+    "7D.PTS",
+    "1"
+   ],
+   [
+    "Thu 11 Jun",
+    "P4",
+    "Hashmi Salan Shameer",
+    "7C.PTMBOTH MOVED — start in F2-07 with Natalie",
+    "1"
+   ],
+   [
+    "Wed 24 Jun",
+    "P1",
+    "Saeed Smith",
+    "8B.PTS MOVED",
+    "1"
+   ],
+   [
+    "Wed 24 Jun",
+    "P4",
+    "Uchena Alli",
+    "7A.PTS MOVED",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P2",
+    "Lewis Macdonald",
+    "8E.PTE1 MOVED",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P8",
+    "Barry Smyth",
+    "9A.PTEBOTH MOVED",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P8",
+    "Monica Lopez",
+    "9B.PTEBOTH MOVED",
+    "1"
+   ],
+   [
+    "Thu 25 Jun",
+    "P9",
+    "Lewis Macdonald",
+    "8F.PTE1 MOVED",
+    "1"
+   ],
+   [
+    "Tue 16 Jun",
+    "P9",
+    "David Woodward",
+    "David Woodward release: 6C.PTEBOTH final period",
+    "Release"
+   ],
+   [
+    "Tue 16 Jun",
+    "P5",
+    "David Barton",
+    "Release Sarah Taylor: 7B.PTEBOTH final period",
+    "Release"
+   ],
+   [
+    "Thu 18 Jun",
+    "P8",
+    "Cover needed",
+    "RED cover: 6D while Cherisse starts 7C.PTEBOTH",
+    "RED"
+   ],
+   [
+    "Tue 16 Jun",
+    "P3",
+    "Cover needed",
+    "RED cover: 6F while Shah continues 8A.PTEBOTH",
+    "RED"
+   ],
+   [
+    "Fri 19 Jun",
+    "P2",
+    "Sunandhini Subramanian",
+    "Cover 8A while Shah starts 6F.PTEBOTH",
+    "Cover"
+   ],
+   [
+    "Tue 23 Jun",
+    "P4",
+    "Benjamin Gibson",
+    "6F.PTEBOTH continuation",
+    "Cover"
+   ],
+   [
+    "Fri 19 Jun",
+    "P5",
+    "Ashli Nelson",
+    "8B.PTE2 continuation",
+    "Cover"
+   ]
+  ]
+ },
+ "fullSchedule": {
+  "headers": [
+   "Session code",
+   "Start leader",
+   "Date",
+   "Window",
+   "Test",
+   "Testing room",
+   "Normal lessons used",
+   "Opportunity type",
+   "Classes to relocate + destination"
+  ],
+  "rows": [
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6B.PTMBOTH</b>",
+     "Hashmi Salan Shameer",
+     "Mon 08 Jun",
+     "P1–P3<br/><small>8:00–10:00</small>",
+     "PTM Parts 1+2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P1 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P2 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip ins\">P3 INS<br/><small>Benjamin Gibson</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P3 7B</b>: CONNECTED with Sunandhini  Subramanian → <b>E2-09 (INS with Benjamin Gibson)</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8F.PTM1</b>",
+     "Hashmi Salan Shameer",
+     "Mon 08 Jun",
+     "P1<br/><small>8:00–8:40</small>",
+     "PTM Part 1",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P1 MATH<br/><small>David Barton</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple flag-row",
+    "cells": [
+     "<b>8C.PTMBOTH</b><span class=\"flag-badge cover\" title=\"P4 cover needed: David Barton is in Fire Training during the final period of this PTM block.\">COVER</span>",
+     "Barry Smyth",
+     "Mon 08 Jun",
+     "P2–P4<br/><small>8:40–11:00</small>",
+     "PTM Parts 1+2",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P2 MATH<br/><small>David Barton</small></span><span class=\"chip maths\">P3 MATH<br/><small>David Barton</small></span><span class=\"chip science\">P4 SCIENCE<br/><small>Quratul Ain</small></span><span class=\"chip other\">Cover note<br/><small>P4 cover required: David in Fire Training</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7E.PTM1</b>",
+     "Monica Lopez",
+     "Mon 08 Jun",
+     "P3<br/><small>9:20–10:00</small>",
+     "PTM Part 1",
+     "<b>F2-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P3 MATH<br/><small>Natalie Oliver-Caldwell</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7F.PTM1</b>",
+     "Rob Paler",
+     "Mon 08 Jun",
+     "P4<br/><small>10:20–11:00</small>",
+     "PTM Part 1",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P4 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>6D.PTM1</b>",
+     "Hashmi Salan Shameer",
+     "Mon 08 Jun",
+     "P5<br/><small>11:00–11:40</small>",
+     "PTM Part 1",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P5 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7A.PTM1</b>",
+     "Hashmi Salan Shameer",
+     "Mon 08 Jun",
+     "P10<br/><small>14:20–15:00</small>",
+     "PTM Part 1",
+     "<b>F2-04</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P10 MATH<br/><small>Hashmi Salan Shameer</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6G.PTMBOTH</b>",
+     "Saeed Smith",
+     "Tue 09 Jun",
+     "P3–P5<br/><small>9:20–11:40</small>",
+     "PTM Parts 1+2",
+     "<b>F2-07</b><small>testing class stays here; P5 supervision hands over to Lewis Macdonald</small>",
+     "<span class=\"chip maths\">P3 MATH<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip english\">P5 ENGLISH<br/><small>Lewis Macdonald</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "P5: <br/><b>F1-03</b>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>7B.PTMBOTH</b>",
+     "No new leader — started/supervised by David Barton",
+     "Tue 09 Jun",
+     "P5, P7–P8 (P6 lunch) 11:00–13:40",
+     "PTM Parts 1+2",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P5 MATH<br/><small>David Barton</small></span><span class=\"chip maths\">P7 MATH<br/><small>David Barton</small></span><span class=\"chip science\">P8 SCIENCE<br/><small>Liam Melville</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P8 8E</b>: MATH with David Barton → <b>B2-01 Lab 1 - Physics (SCIENCE with Liam Melville)</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7A.PTM2</b>",
+     "Hashmi Salan Shameer — self-start",
+     "Tue 09 Jun",
+     "P7–P8<br/><small>12:20–13:40</small>",
+     "PTM Part 2",
+     "<b>F2-04</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Hashmi Salan Shameer</small></span><span class=\"chip maths\">P8 MATH<br/><small>Hashmi Salan Shameer</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7F.PTM2</b>",
+     "Saeed Smith / Monica Lopez — mobile coverage",
+     "Tue 09 Jun",
+     "P7–P8<br/><small>12:20–13:40</small>",
+     "PTM Part 2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P8 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>9C.PTMBOTH</b>",
+     "Monica Lopez",
+     "Tue 09 Jun",
+     "P7–P9<br/><small>12:20–14:20</small>",
+     "PTM Parts 1+2",
+     "<b>F2-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Lubna Jebril</small></span><span class=\"chip maths\">P8 MATH<br/><small>Lubna Jebril</small></span><span class=\"chip science\">P9 SCIENCE<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P7 9D</b>: MATH with Jairusha Jackson → <b>F2-08</b><br/><b>P8 9D</b>: MATH with Jairusha Jackson → <b>F2-08</b>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>9D.PTMBOTH</b>",
+     "Saeed Smith",
+     "Tue 09 Jun",
+     "P7–P9<br/><small>12:20–14:20</small>",
+     "PTM Parts 1+2",
+     "<b>F2-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Jairusha Jackson</small></span><span class=\"chip maths\">P8 MATH<br/><small>Jairusha Jackson</small></span><span class=\"chip science\">P9 SCIENCE<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P7 9C</b>: MATH with Lubna Jebril → <b>F2-08</b><br/><b>P8 9C</b>: MATH with Lubna Jebril → <b>F2-08</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>6D.PTM2</b>",
+     "Hashmi Salan Shameer",
+     "Tue 09 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTM Part 2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P9 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P10 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6A.PTMBOTH</b>",
+     "Barry Smyth",
+     "Wed 10 Jun",
+     "P2–P4<br/><small>8:40–11:00</small>",
+     "PTM Parts 1+2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P2 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P3 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip ins\">P4 INS<br/><small>Benjamin Gibson</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P4 6C</b>: MATH with Sunandhini  Subramanian → <b>E2-09 (INS with Benjamin Gibson)</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "7E.PTM2",
+     "Ryan Samuel → Natalie Oliver-Caldwell",
+     "Wed 10 Jun",
+     "P1–P3 8:00–10:00",
+     "PTM Part 2",
+     "F2-07 testing class stays here throughout",
+     "P1 PTM2 start with Ryan Samuel in F2-07; P2–P3 continuation with Natalie Oliver-Caldwell in F2-07",
+     "same-subject / supervised start",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>8B.PTMBOTH</b>",
+     "Hashmi Salan Shameer",
+     "Wed 10 Jun",
+     "P3–P5<br/><small>9:20–11:40</small>",
+     "PTM Parts 1+2",
+     "<b>F2-06</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P3 MATH<br/><small>Mohammed Gias M. Gias</small></span><span class=\"chip maths\">P4 MATH<br/><small>Mohammed Gias M. Gias</small></span><span class=\"chip ins\">P5 INS<br/><small>Ashli Nelson</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P5 handover:</b> Ashli Nelson releases Mohammed Gias M. Gias and supervises the final period in F2-06."
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>9B.PTMBOTH</b>",
+     "Hashmi Salan Shameer — self-start",
+     "Wed 10 Jun",
+     "P4–P5, P7 (P6 lunch) 10:20–13:00",
+     "PTM Parts 1+2",
+     "<b>F2-04</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P4 MATH<br/><small>Hashmi Salan Shameer</small></span><span class=\"chip maths\">P5 MATH<br/><small>Hashmi Salan Shameer</small></span><span class=\"chip science\">P7 SCIENCE<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P4 9A</b>: MATH with Jairusha Jackson → <b>F2-05</b><br/><b>P5 9A</b>: MATH with Jairusha Jackson → <b>F2-05</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>6E.PTM1</b>",
+     "Hashmi Salan Shameer",
+     "Wed 10 Jun",
+     "P7<br/><small>12:20–13:00</small>",
+     "PTM Part 1",
+     "<b>F2-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Natalie Oliver-Caldwell</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7D.PTM1</b>",
+     "Saeed Smith",
+     "Wed 10 Jun",
+     "P8<br/><small>13:00–13:40</small>",
+     "PTM Part 1",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P8 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8E.PTM1</b>",
+     "Barry Smyth",
+     "Wed 10 Jun",
+     "P8<br/><small>13:00–13:40</small>",
+     "PTM Part 1",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P8 MATH<br/><small>David Barton</small></span>",
+     "<span class=\"badge same\">manual change: PTM1 moved from Tue P8 to Wed P8</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8F.PTM2</b>",
+     "Monica Lopez",
+     "Wed 10 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTM Part 2",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P9 MATH<br/><small>David Barton</small></span><span class=\"chip maths\">P10 MATH<br/><small>David Barton</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7D.PTM2</b>",
+     "Rob Paler",
+     "Thu 11 Jun",
+     "P4–P5<br/><small>10:20–11:40</small>",
+     "PTM Part 2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P4 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P5 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6C.PTMBOTH</b>",
+     "Hashmi Salan Shameer",
+     "Thu 11 Jun",
+     "P7–P9<br/><small>12:20–14:20</small>",
+     "PTM Parts 1+2",
+     "<b>F2-09</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P7 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip maths\">P8 MATH<br/><small>Sunandhini  Subramanian</small></span><span class=\"chip science\">P9 SCIENCE<br/><small>Elize Blignaut</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P9 6D</b>: MATH with Sunandhini  Subramanian → <b>B2-06 Lab 7 - General (SCIENCE with Elize Blignaut)</b>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6F.PTMBOTH</b>",
+     "Hashmi Salan Shameer",
+     "Thu 11 Jun",
+     "P8–P10<br/><small>13:00–15:00</small>",
+     "PTM Parts 1+2",
+     "<b>F2-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P8 MATH<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip maths\">P9 MATH<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip other\">P10 CONNECTED<br/><small>Charlene Mae Teresa</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "8A.PTEBOTH",
+     "Lewis Macdonald",
+     "Tue 16 Jun",
+     "P1–P3 8:00–10:00",
+     "PTE Parts 1+2",
+     "F1-06 testing class stays here throughout",
+     "P1 ENGLISH Shah Sarum; P2 ENGLISH Shah Sarum; P3 UAESS/MSCB block",
+     "protected triple using UAE SS time",
+     "RED: 6F needs P3 cover because Shah Sarum continues with 8A; UAESS teacher still has remaining students. REPRINT CODES"
+    ]
+   },
+   {
+    "rowClass": "crosscore",
+    "cells": [
+     "<b>6A.PTE1</b>",
+     "Rob Paler",
+     "Tue 16 Jun",
+     "P3–P4<br/><small>9:20–11:00</small>",
+     "PTE Part 1",
+     "<b>F1-05</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P3 ENGLISH<br/><small>Carole Morin</small></span><span class=\"chip maths\">P4 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge crosscore\">starts with English teacher; cross-core protected double</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6B.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Tue 16 Jun",
+     "P3–P5<br/><small>9:20–11:40</small>",
+     "PTE Parts 1+2",
+     "<b>F1-03</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P3 ENGLISH<br/><small>Lewis Macdonald</small></span><span class=\"chip english\">P4 ENGLISH<br/><small>Lewis Macdonald</small></span><span class=\"chip maths\">P5 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P5 6G</b>: ENGLISH with Lewis Macdonald → <b>F2-09 (MATH with Sunandhini  Subramanian)</b>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>7B.PTEBOTH</b>",
+     "Saeed Smith",
+     "Tue 16 Jun",
+     "P3–P5<br/><small>9:20–11:40</small>",
+     "PTE Parts 1+2",
+     "<b>F1-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P3 ENGLISH<br/><small>Sarah Taylor</small></span><span class=\"chip english\">P4 ENGLISH<br/><small>Sarah Taylor</small></span><span class=\"chip maths\">P5 MATH<br/><small>David Barton</small></span>",
+     "protected triple / complete two-part block with release note",
+     "P5 David Barton needs to be available to release Sarah Taylor for the period she does not usually teach 7B."
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6C.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Tue 16 Jun",
+     "P7–P9<br/><small>12:20–14:20</small>",
+     "PTE Parts 1+2",
+     "<b>F1-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P7 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip english\">P8 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip ins\">P9 INS<br/><small>David Woodward</small></span>",
+     "protected triple / complete two-part block with release note",
+     "P9 David Woodward releases Cherisse Corbie and supervises the final PTE period during normal 6C InS. Marked as cover release."
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "8C.PTEBOTH",
+     "Saeed Smith",
+     "Tue 16 Jun",
+     "P8–P10 13:00–15:00",
+     "PTE Parts 1+2",
+     "F1-06 testing class stays here throughout",
+     "P8 PHE Theory started by Saeed Smith; P9 ENGLISH Shah Sarum; P10 ENGLISH Shah Sarum",
+     "protected triple by starting at P8",
+     "Shadow Day clash fixed: Shah Sarum is unavailable at P8. Saeed Smith covers/starts the session at P8; Sarum supervises P9–P10. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "cohort",
+    "cells": [
+     "<b>9A.PTS</b>",
+     "Uchena Alli",
+     "Tue 16 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>Normal Science rooms</b><br/><small>9A uses normal Science-room arrangement</small>",
+     "<span class=\"chip science\">9A Science P9–P10<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam · B2-07 Lab 5 - General</small></span>",
+     "<span class=\"badge cohort\">9A.PTS split from 9A–9D concurrent cohort sitting</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "cohort",
+    "cells": [
+     "<b>9B.PTS</b>",
+     "Uchena Alli",
+     "Tue 16 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>Normal Science rooms</b><br/><small>9B uses normal Science-room arrangement</small>",
+     "<span class=\"chip science\">9B Science P9–P10<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam · B2-07 Lab 5 - General</small></span>",
+     "<span class=\"badge cohort\">9B.PTS split from 9A–9D concurrent cohort sitting</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "cohort",
+    "cells": [
+     "<b>9C.PTS</b>",
+     "Barry Smyth",
+     "Tue 16 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>Normal Science rooms</b><br/><small>9C uses normal Science-room arrangement</small>",
+     "<span class=\"chip science\">9C Science P9–P10<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam · B2-07 Lab 5 - General</small></span>",
+     "<span class=\"badge cohort\">9C.PTS split from 9A–9D concurrent cohort sitting</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "cohort",
+    "cells": [
+     "<b>9D.PTS</b>",
+     "Monica Lopez",
+     "Tue 16 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>Normal Science rooms</b><br/><small>9D uses normal Science-room arrangement</small>",
+     "<span class=\"chip science\">9D Science P9–P10<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam · B2-07 Lab 5 - General</small></span>",
+     "<span class=\"badge cohort\">9D.PTS split from 9A–9D concurrent cohort sitting</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7A.PTE1</b>",
+     "Lewis Macdonald",
+     "Wed 17 Jun",
+     "P1–P2<br/><small>8:00–9:20</small>",
+     "PTE Part 1",
+     "<b>F1-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P1 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip english\">P2 ENGLISH<br/><small>Cherisse Corbie</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8C.PTS</b>",
+     "Saeed Smith",
+     "Wed 17 Jun",
+     "P1–P2<br/><small>8:00–9:20</small>",
+     "PTS",
+     "<b>B2-11</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P1 SCIENCE<br/><small>Quratul Ain</small></span><span class=\"chip science\">P2 SCIENCE<br/><small>Quratul Ain</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>9D.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Wed 17 Jun",
+     "P1–P3<br/><small>8:00–10:00</small>",
+     "PTE Parts 1+2",
+     "<b>G2-01</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P1 ENGLISH<br/><small>Vanessa Pinto</small></span><span class=\"chip english\">P2 ENGLISH<br/><small>Vanessa Pinto</small></span><span class=\"chip maths\">P3 MATH<br/><small>Jairusha Jackson</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7F.PTS</b>",
+     "Barry Smyth",
+     "Wed 17 Jun",
+     "P2–P3<br/><small>8:40–10:00</small>",
+     "PTS",
+     "<b>B2-06 Lab 7 - General</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P2 SCIENCE<br/><small>Ryan Samuel</small></span><span class=\"chip science\">P3 SCIENCE<br/><small>Ryan Samuel</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "6D.PTEBOTH",
+     "Saeed Smith",
+     "Wed 17 Jun",
+     "P3–P5 9:20–11:40",
+     "PTE Parts 1+2",
+     "F1-08 testing class stays here throughout",
+     "P3 ENGLISH Cherisse Corbie; P4 ENGLISH Cherisse Corbie; P5 ARABIC block",
+     "protected triple using Arabic block",
+     "P5 Arabic teachers keep remaining students; Saeed supervises/cover final PTE period. REPRINT CODES"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "<b>8A.PTS</b>",
+     "Uchena Alli",
+     "Thu 25 Jun",
+     "P4–P5 10:20–11:40",
+     "PTS",
+     "B2-11 free science room",
+     "P4–P5 THE ARTS with Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng",
+     "moved away from Wed 17 Grade 8 assembly",
+     "Moved from Wed 17 P3–P4 because Grade 8 are in assembly during P3. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>8D.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Wed 17 Jun",
+     "P7–P9<br/><small>12:20–14:20</small>",
+     "PTE Parts 1+2",
+     "<b>F1-04</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P7 ENGLISH<br/><small>Melanie Reeve</small></span><span class=\"chip english\">P8 ENGLISH<br/><small>Melanie Reeve</small></span><span class=\"chip other\">P9 CONNECTED<br/><small>Fiona Williams</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "forced flag-row",
+    "cells": [
+     "<b>8E.PTM2</b><span class=\"flag-badge exception\" title=\"Manual supervision exception: Saeed/cover starts P7; David Barton finishes supervision P8.\">EXCEPTION</span>",
+     "Saeed Smith",
+     "Wed 17 Jun",
+     "P7–P8<br/><small>12:20–13:40</small>",
+     "PTM Part 2",
+     "<b>F2-10</b><br/><small>testing class stays here throughout</small>",
+     "P7 ENGLISH Shah Sarum — Saeed Smith covers/starts PTM2; P8 MATH David Barton finishes supervision",
+     "manual change: Wed 17 Jun P7–P8; Saeed covers Sarum P7, David finishes supervision P8",
+     "Saeed Smith covers Sarum and starts 8E.PTM2 during P7; David Barton finishes supervision during P8."
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>9C.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Thu 18 Jun",
+     "P1–P3<br/><small>8:00–10:00</small>",
+     "PTE Parts 1+2",
+     "<b>F1-04</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P1 ENGLISH<br/><small>Melanie Reeve</small></span><span class=\"chip english\">P2 ENGLISH<br/><small>Melanie Reeve</small></span><span class=\"chip science\">P3 SCIENCE<br/><small>Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P3 DP1</b>: English A (Lang &amp; Lit) with Lewis Macdonald, Melanie Reeve → <b>B2-07 Lab 5 - General (SCIENCE with Quratul Ain, Liam Melville, Uchena Alli, Azniv  Hovhannisyam)</b>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>7F.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Thu 18 Jun",
+     "P2–P4<br/><small>8:40–11:00</small>",
+     "PTE Parts 1+2",
+     "<b>F1-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P2 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip english\">P3 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip science\">P4 SCIENCE<br/><small>Ryan Samuel</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<b>P4 7A</b>: ENGLISH with Cherisse Corbie → <b>B2-07 Lab 5 - General (SCIENCE with Ryan Samuel)</b>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8F.PTS</b>",
+     "Rob Paler",
+     "Thu 18 Jun",
+     "P3–P4<br/><small>9:20–11:00</small>",
+     "PTS",
+     "<b>B2-06 Lab 7 - General</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P3 SCIENCE<br/><small>Elize Blignaut</small></span><span class=\"chip science\">P4 SCIENCE<br/><small>Elize Blignaut</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "7E.PTEBOTH",
+     "Barry Smyth",
+     "Thu 18 Jun",
+     "P3–P5 9:20–11:40",
+     "PTE Parts 1+2",
+     "F1-07 testing class stays here throughout",
+     "P3 INS Ranjini Krishnan; P4 ENGLISH Sarah Taylor; P5 ENGLISH Sarah Taylor",
+     "protected triple by starting during InS",
+     "Ranjini Krishnan starts/supervises P3 because Sarah Taylor has 10A; Sarah continues P4–P5. REPRINT CODES"
+    ]
+   },
+   {
+    "rowClass": "crosscore",
+    "cells": [
+     "<b>8D.PTS</b>",
+     "Uchena Alli",
+     "Thu 18 Jun",
+     "P4–P5<br/><small>10:20–11:40</small>",
+     "PTS",
+     "<b>B2-11</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P4 SCIENCE<br/><small>Uchena Alli</small></span><span class=\"chip english\">P5 ENGLISH<br/><small>Melanie Reeve</small></span>",
+     "<span class=\"badge crosscore\">starts with Science teacher; cross-core protected double</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "crosscore",
+    "cells": [
+     "<b>8B.PTE1</b>",
+     "Monica Lopez",
+     "Thu 18 Jun",
+     "P7–P8<br/><small>12:20–13:40</small>",
+     "PTE Part 1",
+     "<b>G2-01</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P7 ENGLISH<br/><small>Vanessa Pinto</small></span><span class=\"chip maths\">P8 MATH<br/><small>Mohammed Gias M. Gias</small></span>",
+     "<span class=\"badge crosscore\">starts with English teacher; cross-core protected double</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "<b>6E.PTM2 MOVED</b>",
+     "Hashmi Salan Shameer",
+     "Thu 18 Jun",
+     "P3–P4<br/><small>9:20–11:00</small>",
+     "PTM Part 2",
+     "<b>F2-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P3 MATH<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip maths\">P4 MATH<br/><small>Natalie Oliver-Caldwell</small></span>",
+     "<span class=\"badge same\">moved from Thu 11</span>",
+     "6E finish PTM Part 2 with Natalie Oliver-Caldwell in F2-07. Note: the existing 6E.PTEBOTH later on Thu 18 remains unchanged."
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6E.PTEBOTH</b>",
+     "Rob Paler",
+     "Thu 18 Jun",
+     "P8–P10<br/><small>13:00–15:00</small>",
+     "PTE Parts 1+2",
+     "<b>F1-06</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P8 ENGLISH<br/><small>Shah Sarum</small></span><span class=\"chip english\">P9 ENGLISH<br/><small>Shah Sarum</small></span><span class=\"chip ins\">P10 INS<br/><small>Benjamin Gibson</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "triple",
+    "cells": [
+     "<b>6G.PTEBOTH</b>",
+     "Lewis Macdonald",
+     "Thu 18 Jun",
+     "P8–P10<br/><small>13:00–15:00</small>",
+     "PTE Parts 1+2",
+     "<b>F1-03</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P8 ENGLISH<br/><small>Lewis Macdonald</small></span><span class=\"chip english\">P9 ENGLISH<br/><small>Lewis Macdonald</small></span><span class=\"chip other\">P10 THE ARTS<br/><small>Fiona Williams, Zoe Denton, Yunxiu (Michelle) Cheng</small></span>",
+     "<span class=\"badge triple\">protected triple / complete two-part block</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7B.PTS</b>",
+     "Saeed Smith",
+     "Thu 18 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>B2-01 Lab 1 - Physics</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P9 SCIENCE<br/><small>Liam Melville</small></span><span class=\"chip science\">P10 SCIENCE<br/><small>Liam Melville</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "7C.PTEBOTH",
+     "Barry Smyth",
+     "Thu 18 Jun",
+     "P8–P10 13:00–15:00",
+     "PTE Parts 1+2",
+     "F1-08 testing class stays here throughout",
+     "P8 UAESS/iStudy; P9 ENGLISH Cherisse Corbie; P10 ENGLISH Cherisse Corbie",
+     "protected triple using UAE SS time",
+     "RED: 6D needs P8 cover while Cherisse starts 7C; UAESS teacher still has 7A/7B/iStudy students. REPRINT CODES"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "<b>7C.PTS</b>",
+     "Uchena Alli",
+     "Wed 24 Jun",
+     "P4–P5 10:20–11:40",
+     "PTS",
+     "B2-01 Lab 1 - Physics; P5 normal science room",
+     "P4 language block; P5 SCIENCE with Liam Melville",
+     "moved away from Fri 19 MYP assembly blackout",
+     "Moved from Fri 19 P2–P3 because MYP assembly blocks P1–P3. P4 requires local cover for language split; Liam supervises P5. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "6F.PTEBOTH",
+     "Monica Lopez",
+     "Tue 23 Jun",
+     "P3–P5 9:20–11:40",
+     "PTE Parts 1+2",
+     "F1-06 starts in normal English room; continues in InS block",
+     "P3 ENGLISH Shah Sarum; P4–P5 INS with Benjamin Gibson",
+     "protected triple moved away from Fri 19 MYP assembly blackout",
+     "Moved from Fri 19 P2–P4 because MYP assembly blocks P1–P3. Shah starts P3; Benjamin Gibson continues P4–P5. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "<b>7E.PTS</b>",
+     "Rob Paler",
+     "Fri 19 Jun",
+     "P4–P5 10:20–11:40",
+     "PTS",
+     "B2-06 Lab 7 - General; P4 normal science room",
+     "P4 SCIENCE Ryan Samuel; P5 language block",
+     "shifted after MYP assembly blackout",
+     "Moved from P3–P4 to P4–P5 because MYP assembly blocks P1–P3. Ryan supervises P4; P5 requires local cover for language split. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "other rescheduled-pt",
+    "cells": [
+     "<b>8B.PTE2</b>",
+     "Saeed Smith",
+     "Fri 19 Jun",
+     "P4–P5 10:20–11:40",
+     "PTE Part 2",
+     "G2-01 testing class stays here throughout",
+     "P4 THE ARTS; P5 INS with Ashli Nelson",
+     "shifted after MYP assembly blackout",
+     "Moved from P3–P4 to P4–P5 because MYP assembly blocks P1–P3. Vanessa/cover starts P4; Ashli Nelson can continue P5. Existing 9D room move remains for P4. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7A.PTE2</b>",
+     "Lewis Macdonald",
+     "Fri 19 Jun",
+     "P4–P5<br/><small>10:20–11:40</small>",
+     "PTE Part 2",
+     "<b>F1-08</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P4 ENGLISH<br/><small>Cherisse Corbie</small></span><span class=\"chip english\">P5 ENGLISH<br/><small>Cherisse Corbie</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8E.PTE2</b>",
+     "Lewis Macdonald",
+     "Mon 22 Jun",
+     "P5–P7<br/><small>11:00–13:00</small>",
+     "PTE Part 2",
+     "<b>F1-06</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P5 ENGLISH<br/><small>Shah Sarum</small></span><span class=\"chip english\">P7 ENGLISH<br/><small>Shah Sarum</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "other",
+    "cells": [
+     "<b>8F.PTE2</b>",
+     "Lewis Macdonald",
+     "Mon 22 Jun",
+     "P5–P7<br/><small>11:00–13:00</small>",
+     "PTE Part 2",
+     "<b>C2-12</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P5 ENGLISH<br/><small>Luke Clarke</small></span><span class=\"chip other\">P7 CONNECTED<br/><small>Anna Shishikura</small></span>",
+     "<span class=\"badge other\">starts with English teacher; other-subject fallback</span>",
+     "<b>P5 7A</b>: MSCB with Anna Shishikura → <b>C2-11 — Anna Shishikura's room</b><br/><b>P5 7B</b>: MSCB with Anna Shishikura → <b>C2-11 — Anna Shishikura's room</b><br/><b>P5 7C</b>: MSCB with Anna Shishikura → <b>C2-11 — Anna Shishikura's room</b>"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "<b>8A.PTMBOTH MOVED</b>",
+     "Hashmi Salan Shameer",
+     "Mon 22 Jun",
+     "P8–P10<br/><small>13:00–15:00</small>",
+     "PTM Parts 1+2",
+     "<b>F2-06</b><br/><small>P8–P9 normal Maths room; P10 room free</small>",
+     "<span class=\"chip maths\">P8 MATH<br/><small>Mohammed Gias M. Gias</small></span><span class=\"chip maths\">P9 MATH<br/><small>Mohammed Gias M. Gias</small></span><span class=\"chip other\">P10 DESIGN + INNOV<br/><small>Oliver Pennington / Shubhrum Pun</small></span>",
+     "<span class=\"badge triple\">combined PTMBOTH make-up</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same rescheduled-pt",
+    "cells": [
+     "7D.PTEBOTH",
+     "Lewis Macdonald",
+     "Tue 23 Jun",
+     "P1–P3 8:00–10:00",
+     "PTE Parts 1+2",
+     "F1-07 testing class stays here throughout",
+     "P1 ENGLISH Sarah Taylor; P2 ENGLISH Sarah Taylor; P3 ARABIC block",
+     "protected triple by extending into P3",
+     "P3 7B needs cover/move because Sarah remains with 7D for the third period. REPRINT CODES"
+    ]
+   },
+   {
+    "rowClass": "crosscore",
+    "cells": [
+     "<b>6A.PTE2</b>",
+     "Monica Lopez",
+     "Tue 23 Jun",
+     "P3–P4<br/><small>9:20–11:00</small>",
+     "PTE Part 2",
+     "<b>F1-05</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip english\">P3 ENGLISH<br/><small>Carole Morin</small></span><span class=\"chip maths\">P4 MATH<br/><small>Sunandhini  Subramanian</small></span>",
+     "<span class=\"badge crosscore\">starts with English teacher; cross-core protected double</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>8E.PTS</b>",
+     "Barry Smyth",
+     "Wed 24 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>B2-06 Lab 7 - General</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P9 SCIENCE<br/><small>Elize Blignaut</small></span><span class=\"chip science\">P10 SCIENCE<br/><small>Elize Blignaut</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "same",
+    "cells": [
+     "<b>7D.PTS</b>",
+     "Monica Lopez",
+     "Thu 25 Jun",
+     "P9–P10<br/><small>13:40–15:00</small>",
+     "PTS",
+     "<b>B2-07 Lab 5 - General</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip science\">P9 SCIENCE<br/><small>Ryan Samuel</small></span><span class=\"chip science\">P10 SCIENCE<br/><small>Ryan Samuel</small></span>",
+     "<span class=\"badge same\">same-subject session</span>",
+     "<span class=\"ok\">None</span>"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt same",
+    "cells": [
+     "<b>8D.PTM2 MOVED</b>",
+     "Monica Lopez",
+     "Thu 25 Jun",
+     "P8–P9<br/><small>13:00–14:20</small>",
+     "PTM Part 2",
+     "<b>B2-11</b><br/><small>free room</small>",
+     "<span class=\"chip other\">P8 THE ARTS<br/><small>Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng</small></span><span class=\"chip other\">P9 THE ARTS<br/><small>Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng</small></span>",
+     "<span class=\"badge other\">moved make-up session</span>",
+     "8D misses The Arts P8–P9. No other class is relocated. <span class=\"codes-note\">REPRINT CODES</span>"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "7C.PTMBOTH MOVED",
+     "Hashmi Salan Shameer",
+     "Thu 11 Jun",
+     "P4, P5 and P7<small>10:20–13:00 with P6 lunch</small>",
+     "PTM Parts 1+2",
+     "<b>F2-07</b><br/><small>testing class stays here throughout</small>",
+     "<span class=\"chip maths\">P4 PTM<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip maths\">P5 MATH<br/><small>Natalie Oliver-Caldwell</small></span><span class=\"chip maths\">P7 MATH<br/><small>Natalie Oliver-Caldwell</small></span>",
+     "make-up after outage; 7C goes directly to Natalie in F2-07; Liam covers 6E P4",
+     "7C go directly to F2-07 with Natalie Oliver-Caldwell for PTMBoth. Liam Melville covers 6E during P4 only."
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "8B.PTS MOVED",
+     "Saeed Smith",
+     "Wed 24 Jun",
+     "P1–P2 8:00–9:20",
+     "PTS",
+     "B2-11 free room",
+     "P1 PHE Girls Dana Hinton / PHE Boys Stephen Whitley P2 PHE Girls Dana Hinton / PHE Boys Stephen Whitley",
+     "Mon 15 closure make-up; non-core disruption",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "7A.PTS MOVED",
+     "Uchena Alli",
+     "Wed 24 Jun",
+     "P4–P5 10:20–11:40",
+     "PTS",
+     "B2-11 free room",
+     "P4 DESIGN + INNOV Charlene Mae Teresa / Joanne Kennedy P5 DESIGN + INNOV Charlene Mae Teresa / Joanne Kennedy",
+     "Mon 15 closure make-up; non-core disruption",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "8E.PTE1 MOVED",
+     "Lewis Macdonald",
+     "Thu 25 Jun",
+     "P2–P3 8:40–10:00",
+     "PTE Part 1",
+     "F1-06 starts in normal English room; P3 room free",
+     "P2 ENGLISH Shah Sarum P3 INS Kellee Kryba",
+     "Mon 15 closure make-up; starts in English",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "9A.PTEBOTH MOVED",
+     "Barry Smyth",
+     "Thu 25 Jun",
+     "P8–P10 13:00–15:00",
+     "PTE Parts 1+2",
+     "F1-04 free P8–P9; normal English room P10",
+     "P8 INS Benjamin Gibson P9 INS Benjamin Gibson P10 ENGLISH Melanie Reeve",
+     "Mon 15 closure make-up; protected triple using non-core/non-core/English",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "9B.PTEBOTH MOVED",
+     "Monica Lopez",
+     "Thu 25 Jun",
+     "P8–P10 13:00–15:00",
+     "PTE Parts 1+2",
+     "G2-01 free P8–P9; normal English room P10",
+     "P8 INS David Woodward P9 INS David Woodward P10 ENGLISH Vanessa Pinto",
+     "Mon 15 closure make-up; protected triple using non-core/non-core/English",
+     "None"
+    ]
+   },
+   {
+    "rowClass": "rescheduled-pt",
+    "cells": [
+     "8F.PTE1 MOVED",
+     "Lewis Macdonald",
+     "Thu 25 Jun",
+     "P9–P10 13:40–15:00",
+     "PTE Part 1",
+     "C2-12 free room",
+     "P9 THE ARTS Fiona Williams / Zoe Denton / Yunxiu (Michelle) Cheng P10 ENGLISH Luke Clarke",
+     "Mon 15 closure make-up; finishes in English",
+     "None"
+    ]
+   }
+  ]
+ },
+ "staticSections": {
+  "adjustments": "<section class=\"panel update-panel collapsible-panel\"><details class=\"collapsible-details\"><summary class=\"collapsible-summary\"><h2>Schedule Adjustments</h2><span class=\"summary-hint\">Collapsed by default</span></summary><div class=\"collapsible-body\"><p>Updated after Monday 08 internet outages and the Monday 15 June closure. Original sessions remain visible in red with strikethrough so staff can see what was planned but did not take place.</p><div class=\"update-note\">Use MOVED rows as the operational schedule. Any moved session needs fresh access codes printed because the first-attempt codes have already been distributed/lost.</div><div class=\"tablewrap\"><table id=\"schedule-adjustments-table\"><thead><tr><th>Status</th><th>Original session</th><th>Original slot</th><th>New slot</th><th>Room</th><th>Normal lesson / staff affected</th><th>Operational note</th></tr></thead><tbody><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>8D.PTM1</td><td>Mon 08 Jun P7</td><td>Tue 09 Jun P9</td><td>F2-10</td><td>P9 MATH with David Barton</td><td>Internet outage. Earlier Tue P8 proposal rejected; P9 uses the normal Maths lesson. Reprint code. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"\" title=\"Moved/missed-session update\"><td><span class=\"update-status moved\">MOVED</span></td><td>8D.PTM2</td><td>Tue 09 Jun P9–P10</td><td>Thu 25 Jun P8–P9</td><td>B2-11</td><td>P8–P9 THE ARTS with Fiona Williams, Zoe Denton, Yunxiu (Michelle) Cheng</td><td>Moved because PTM1 will now happen Tue P9. Uses non-core Arts time. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>7C.PTMBOTH</td><td>Mon 08 Jun P7–P9</td><td>Thu 11 Jun P4, P5 and P7</td><td>F2-07 throughout</td><td>P4 SCIENCE displaced from Liam Melville; P5/P7 MATH with Natalie Oliver-Caldwell</td><td>7C go directly to F2-07 with Natalie Oliver-Caldwell for PTMBoth. Liam Melville covers 6E during P4. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"rescheduled-pt\"><td><span class=\"update-status moved\">MOVED</span></td><td>6E.PTM2</td><td>Thu 11 Jun P3–P4</td><td>Thu 18 Jun P3–P4</td><td>F2-07</td><td>P3–P4 MATH with Natalie Oliver-Caldwell</td><td>6E do not test on Thu 11. On Thu 11 P4, 6E go to Liam Melville for cover only. 6E finish PTM2 on Thu 18. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>8B.PTS</td><td>Mon 15 Jun P2–P3</td><td>Wed 24 Jun P1–P2</td><td>B2-11</td><td>PHE block: Dana Hinton / Stephen Whitley</td><td>Moved to a low-conflict PHE block. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>7A.PTS</td><td>Mon 15 Jun P3–P4</td><td>Wed 24 Jun P4–P5</td><td>B2-11</td><td>Design + Innov block: Charlene Mae Teresa / Joanne Kennedy</td><td>Moved to a Design + Innov block. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>8E.PTE1</td><td>Mon 15 Jun P5–P7</td><td>Thu 25 Jun P2–P3</td><td>F1-06</td><td>P2 ENGLISH with Shah Sarum; P3 INS with Kellee Kryba</td><td>Starts in the normal English room, then uses InS. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>8F.PTE1</td><td>Mon 15 Jun P5–P7</td><td>Thu 25 Jun P9–P10</td><td>C2-12</td><td>P9 THE ARTS with Fiona/Zoe/Michelle; P10 ENGLISH with Luke Clarke</td><td>Uses P9 Arts and P10 English. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>9A.PTEBOTH</td><td>Mon 15 Jun P5–P8</td><td>Thu 25 Jun P8–P10</td><td>F1-04</td><td>P8–P9 INS with Benjamin Gibson; P10 ENGLISH with Melanie Reeve</td><td>Uses InS/InS/English; room is free P8–P9 and normal English room at P10. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"cancelled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status\">CANCELLED / NOT TAKEN</span></td><td>9B.PTEBOTH</td><td>Mon 15 Jun P5–P8</td><td>Thu 25 Jun P8–P10</td><td>G2-01</td><td>P8–P9 INS with David Woodward; P10 ENGLISH with Vanessa Pinto</td><td>Uses InS/InS/English; room is free P8–P9 and normal English room at P10. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr class=\"rescheduled-pt\" title=\"Moved/missed-session update\"><td><span class=\"update-status moved\">MOVED</span></td><td>8A.PTM1 + 8A.PTM2</td><td>Fri 12 Jun P3; Mon 15 Jun P8–P9</td><td>Mon 22 Jun P8–P10</td><td>F2-06</td><td>P8–P9 MATH with Mohammed Gias M. Gias; P10 DESIGN + INNOV with Oliver Pennington / Shubhrum Pun</td><td>Combined <b>8A.PTMBOTH</b> block. Removes the Fri 12 P3 8A.PTM1 entry and the separate Thu 25 P1–P2 8A.PTM2 move. Reprint codes. <span class=\"codes-note\">REPRINT CODES</span></td></tr><tr><td><span class=\"update-status moved\">MOVED</span></td><td>6D.PTE1 + 6D.PTE2</td><td>Wed 17 P3–P4; Mon 22 P4–P5</td><td>Wed 17 Jun P3–P5</td><td>F1-08</td><td>P3–P4 English; P5 Arabic block</td><td>Combined into PTEBOTH. Saeed covers P5 because Arabic teachers still teach remaining students. REPRINT CODES</td></tr><tr><td><span class=\"update-status moved\">MOVED</span></td><td>6F.PTE1 + 6F.PTE2</td><td>Fri 19 P3–P4; Tue 23 P3–P4</td><td>Tue 23 Jun P3–P5</td><td>F1-06</td><td>P3 English; P4–P5 InS</td><td>Moved off Fri 19 because MYP assembly blocks P1–P3. Shah starts P3; Benjamin Gibson continues P4–P5. REPRINT CODES</td></tr><tr class=\"red-risk\"><td><span class=\"update-status moved\">MOVED</span></td><td>7C.PTE1 + 7C.PTE2</td><td>Thu 18 P9–P10; Tue 23 P4–P5</td><td>Thu 18 Jun P8–P10</td><td>F1-08</td><td>P8 UAE SS; P9–P10 English</td><td>RED: 6D needs cover; UAESS teacher still has some students. REPRINT CODES</td></tr><tr><td><span class=\"update-status moved\">MOVED</span></td><td>7D.PTE1 + 7D.PTE2</td><td>Tue 16 P1–P2; Tue 23 P1–P2</td><td>Tue 23 Jun P1–P3</td><td>F1-07</td><td>P1–P2 English; P3 Arabic block</td><td>7B needs cover/move for P3 because Sarah remains with 7D. REPRINT CODES</td></tr><tr><td><span class=\"update-status moved\">MOVED</span></td><td>7E.PTE1 + 7E.PTE2</td><td>Thu 18 P4–P5; Tue 23 P7–P8</td><td>Thu 18 Jun P3–P5</td><td>F1-07</td><td>P3 InS; P4–P5 English</td><td>Ranjini Krishnan starts P3 because Sarah has 10A; Sarah continues P4–P5. REPRINT CODES</td></tr><tr class=\"red-risk\"><td><span class=\"update-status moved\">MOVED</span></td><td>8A.PTE1 + 8A.PTE2</td><td>Tue 16 P1–P2; Tue 23 P1–P2</td><td>Tue 16 Jun P1–P3</td><td>F1-06</td><td>P1–P2 English; P3 UAE SS/MSCB</td><td>RED: 6F needs cover; UAESS teacher still has students. REPRINT CODES</td></tr><tr><td><span class=\"update-status moved\">MOVED</span></td><td>8C.PTE1 + 8C.PTE2</td><td>Tue 16 P9–P10; Tue 23 P9–P10</td><td>Tue 16 Jun P8–P10</td><td>F1-06</td><td>P8 PHE Theory; P9–P10 English</td><td>Shadow Day clash fixed: Shah Sarum is unavailable at P8. Saeed Smith starts the P8 period; Sarum supervises P9–P10. REPRINT CODES</td></tr><tr><td><span class=\"update-status moved\">UNCHANGED</span></td><td>6C.PTEBOTH</td><td>Tue 16 P7–P9</td><td>Tue 16 Jun P7–P9</td><td>F1-08</td><td>P9 InS with David Woodward</td><td>David Woodward releases Cherisse for P9; marked on cover table.</td></tr><tr><td><span class=\"update-status moved\">UNCHANGED</span></td><td>7B.PTEBOTH</td><td>Tue 16 P3–P5</td><td>Tue 16 Jun P3–P5</td><td>F1-07</td><td>P5 Maths with David Barton</td><td>David Barton needs to be available P5 to release Sarah.</td></tr><tr><td><span class=\"update-status moved\">CHECKED</span></td><td>8E–9B lunch-span check</td><td>Existing PTE plan</td><td>No triple added</td><td>—</td><td>8E/8F have lunch-span PTE2; 9A/9B do not</td><td>8E and 8F remain lunch-spanning doubles on Mon 22 P5/P7. 9A and 9B remain Thu 25 P8–P10.</td></tr><tr class=\"rescheduled-pt\"><td><span class=\"update-status moved\">MOVED</span></td><td>8A.PTS</td><td>Wed 17 Jun P3–P4</td><td>Thu 25 Jun P4–P5</td><td>B2-11</td><td>P4–P5 The Arts</td><td>Moved because Grade 8 assembly affects Wed 17 P3. REPRINT CODES</td></tr><tr class=\"rescheduled-pt\"><td><span class=\"update-status moved\">MOVED</span></td><td>7C.PTS</td><td>Fri 19 Jun P2–P3</td><td>Wed 24 Jun P4–P5</td><td>B2-01</td><td>P4 language block; P5 Science</td><td>Moved because MYP assembly blocks Fri 19 P1–P3. REPRINT CODES</td></tr><tr class=\"rescheduled-pt\"><td><span class=\"update-status moved\">MOVED</span></td><td>7E.PTS</td><td>Fri 19 Jun P3–P4</td><td>Fri 19 Jun P4–P5</td><td>B2-06</td><td>P4 Science; P5 language block</td><td>Shifted after the MYP assembly blackout. REPRINT CODES</td></tr><tr class=\"rescheduled-pt\"><td><span class=\"update-status moved\">MOVED</span></td><td>8B.PTE2</td><td>Fri 19 Jun P3–P4</td><td>Fri 19 Jun P4–P5</td><td>G2-01</td><td>P4 The Arts; P5 InS</td><td>Shifted after the MYP assembly blackout. REPRINT CODES</td></tr></tbody></table></div></div></details></section>",
+  "shadow": "",
+  "constraints": "<section class=\"panel\"><h2>Constraint Checks</h2><ul><li>No same-day PT assessment issue remains for 7D: 7D.PTS moved to Thu 25 Jun P9–P10.</li><li>No same-day PT assessment issue remains for 8E: 8E.PTS moved to Wed 24 Jun P9–P10.</li><li>G8 PTE sessions unchanged.</li><li>8E.PTM2 remains a manual supervision exception: Saeed/cover starts P7 and David Barton finishes P8.</li><li>Quratul Ain room references use B2-11 where applicable.</li><li>Mobile leadership allocation now follows the 1 leader per 2 actively testing classes rule; self-starting class teachers are not counted as mobile leaders.</li><li>Availability note: Monica Lopez and Rob Paler do not appear in the XML timetable and are treated as untimetabled leadership support when assigned.</li></ul></section>"
+ }
+}

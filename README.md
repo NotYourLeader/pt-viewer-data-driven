@@ -1,41 +1,67 @@
-# MYP PT Schedule Viewer — Data-driven version
+# PT Schedule — 3-file structure
 
-This version separates the display from the schedule data.
+The page design is fully separated from the schedule content.
 
-## What to edit
+| File | What it is | How often you edit it |
+|------|------------|----------------------|
+| `index.html` | Page shell + all CSS (styling, layout) | Never (only to restyle) |
+| `schedule.js` | Renderer — turns data into the timeline, tables and views | Never (only to change behaviour) |
+| `data.json` | **All schedule content** | Every time the schedule changes |
 
-Edit the CSV files in `data/`:
+To update the schedule, edit **`data.json` only** and reload the page. The timeline,
+cover table, full schedule, leadership table, and the teacher/class views all
+rebuild automatically from it.
 
-- `sessions.csv` — the main testing-session source of truth.
-- `cover.csv` — cover, room moves, supervision handovers and related operational notes.
-- `leadership.csv` — period-by-period mobile leadership assignments.
-- `adjustments.csv` — audit trail of moved/cancelled/replaced sessions.
-- `concurrent.csv` — concurrent-session summary table.
+## Hosting
 
-`index.html`, `css/styles.css` and `js/app.js` should normally stay unchanged.
+Because the page loads `data.json` with `fetch()`, it must be served over HTTP,
+not opened from disk. Two easy options:
 
-## How to publish on GitHub Pages
+- **GitHub Pages** — push all three files to a repo, enable Pages, done.
+- **Local preview** — run `python3 -m http.server` in this folder, then open
+  `http://localhost:8000`.
 
-1. Put this folder in a GitHub repo.
-2. Commit and push.
-3. Enable GitHub Pages for the branch/folder that contains `index.html`.
-4. To update the schedule, edit the relevant CSV and push again.
+(If you open `index.html` directly with a `file://` path, the browser blocks the
+data file and the page shows a load error explaining this.)
 
-## Local preview
+## Editing `data.json`
 
-Do not double-click `index.html`; browser security can block CSV loading. Use a local server:
+### Change a session's timing, room, or teacher
+Find the session in the `sessions` array and edit the field:
 
-```bash
-cd pt-viewer-data-driven
-python -m http.server 8000
+```json
+{
+  "code": "8C.PTMBOTH",
+  "date": "Mon 08 Jun",
+  "startPeriod": 2,        // change timing here…
+  "endPeriod": 4,          // …and here
+  "room": "F2-10",         // change room here
+  "teacher": "David Barton", // change the supervising teacher here
+  "type": "triple"
+}
 ```
 
-Then open `http://localhost:8000`.
+- `startPeriod` / `endPeriod` are period numbers (1–10). P6 is lunch and is
+  skipped automatically; a session may span across it.
+- `teacher` controls which **row** the block appears in on the timeline. Change
+  it (e.g. to a cover teacher) and the block moves to that person's row — a new
+  row is created if they don't already have one.
+- `room` and the period range show inside the block.
+- Optional `cancelled: true` strikes the code through.
+- Optional `flag` adds a badge + note:
+  `"flag": { "type": "cover", "text": "COVER", "note": "P4 cover needed…" }`
 
-## Optional SQLite
+### Cover / substitutions
+Edit the `cover` array. Each entry is one row of the Cover table
+(`date`, `period`, `trigger`, `type`, `affected`, `normalLesson`,
+`normalTeacher`, `destination`, `instruction`).
 
-`data/schedule.sqlite` is included as a mirror of the CSV data. The web app currently hydrates from CSV because this works directly on GitHub Pages without additional libraries.
+### Period leaders (column headers)
+Edit `periodLeaders`, keyed by date. Each entry: `{ "period": "P1", "text": "Name: codes" }`.
 
-## Notes
+### Header, metrics, notes
+Edit `meta.title`, `meta.subtitle`, and the `summary` block.
 
-The original uploaded HTML is copied to `legacy-original.html` for comparison/back-up.
+The `staticSections` and `fullSchedule` blocks hold richer HTML that changes
+rarely; they can be edited too but aren't required for routine timing/room/cover
+updates.
