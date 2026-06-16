@@ -34,15 +34,15 @@
   "notes": [
    {
     "cls": "note",
+    "html": "<b>8C PTE Part 2 rescheduled:</b> moved to <b>Tue 23 Jun P9–P10 in F1-06</b> — Sarum Shah's own 8C English double, so no cover. This frees her to start 8E.PTM2 at P7 on Wed 17. <b>8E.PTM2:</b> Sarum Shah starts P7 in F2-10 (David Barton's room); David takes over P8."
+   },
+   {
+    "cls": "note",
     "html": "<b>6D PTE Part 2 scheduled:</b> Mon 22 Jun P4–P5 in F1-08. Cherisse Corbie starts P4 (her English lesson); Sunandhini Subramanian supervises P5 (her Maths period with 6D) in the same room. No cover, no room change. <b>8D Wed 17:</b> Fiona Williams supervises the final period (P9) — her own CONNECTED lesson with 8D; Melanie Reeve covers P7–P8."
    },
    {
     "cls": "note",
     "html": "<b>6D PTE update:</b> 6D now sits <b>Part 1 only</b> on Wed 17 Jun P3–P4 with Cherisse Corbie in F1-08 — her own English double, so no cover, no room move, and no mid-session changeover. The previous PTEBOTH triple (which needed Saeed Smith to cover the P5 Arabic period) has been removed."
-   },
-   {
-    "cls": "note",
-    "html": "<b>8C PTE update:</b> Only Part 1 was completed on Tue 16 Jun. Part 2 is scheduled for <b>Wed 17 Jun P7–P8 in F1-10</b>. David Woodward starts P7 (he already supervises 8C for INS that period); Sarum Shah takes over at P8 when her 8E lesson ends. F1-10 is held for both periods so the class does not move mid-test and no other class is displaced. <b>6A PTE:</b> both parts complete; the Tue 23 follow-up has been removed."
    },
    {
     "cls": "note",
@@ -670,14 +670,23 @@
    "code": "9D.PTEBOTH",
    "date": "Wed 17 Jun",
    "startPeriod": 1,
+   "endPeriod": 2,
+   "room": "G2-01",
+   "teacher": "Vanessa Pinto",
+   "type": "triple"
+  },
+  {
+   "code": "9D.PTEBOTH",
+   "date": "Wed 17 Jun",
+   "startPeriod": 3,
    "endPeriod": 3,
    "room": "G2-01",
    "teacher": "Vanessa Pinto",
    "type": "triple",
    "flag": {
     "type": "cover",
-    "text": "3-PERIOD",
-    "note": "Vanessa Pinto supervises all of P1–P3. Her P3 Media Arts class (10A–10D) is covered by Jairusha Jackson in F2-05."
+    "text": "COVER",
+    "note": "Vanessa Pinto stays with 9D for P3; her Media Arts class (10A–10D) is covered by Jairusha Jackson in F2-05."
    }
   },
   {
@@ -691,7 +700,7 @@
    "flag": {
     "type": "cover",
     "text": "P7 START",
-    "note": "8E starts PTM2 with Sarum Shah in F2-10 at P7; David Barton finishes supervision at P8. No external cover needed."
+    "note": "8E start PTM2 with Sarum Shah in F2-10 (David Barton's room) at P7; David Barton takes over P8."
    }
   },
   {
@@ -713,8 +722,8 @@
    "type": "same",
    "flag": {
     "type": "cover",
-    "text": "FINISH",
-    "note": "David Barton finishes 8E.PTM2 supervision at P8 in F2-10 (Sarum Shah started P7)."
+    "text": "HANDOVER",
+    "note": "David Barton takes over 8E.PTM2 supervision at P8 in F2-10 (Sarum Shah started P7)."
    }
   },
   {
@@ -738,34 +747,6 @@
     "type": "cover",
     "text": "P9",
     "note": "Fiona Williams supervises 8D for the final period (P9) in F1-04 — her own CONNECTED lesson with 8D. Melanie Reeve covers P7–P8."
-   }
-  },
-  {
-   "code": "8C.PTE2",
-   "date": "Wed 17 Jun",
-   "startPeriod": 7,
-   "endPeriod": 7,
-   "room": "F1-10",
-   "teacher": "David Woodward",
-   "type": "same",
-   "flag": {
-    "type": "cover",
-    "text": "P7 START",
-    "note": "PTE Part 2 make-up. David Woodward starts P7 (he already has 8C for INS); Sarum Shah takes over P8 when free. Room F1-10 held for both periods so 8C does not move mid-test. Setup: 5 extra chairs needed in F1-10."
-   }
-  },
-  {
-   "code": "8C.PTE2",
-   "date": "Wed 17 Jun",
-   "startPeriod": 8,
-   "endPeriod": 8,
-   "room": "F1-10",
-   "teacher": "Sarum Shah",
-   "type": "same",
-   "flag": {
-    "type": "cover",
-    "text": "HANDOVER",
-    "note": "Sarum Shah takes over supervision at P8 (her normal 8C English period); same room F1-10. Setup: 5 extra chairs needed in F1-10."
    }
   },
   {
@@ -1021,6 +1002,20 @@
    "teacher": "Sarum Shah → Benjamin Gibson",
    "type": "same",
    "rowStaff": "Benjamin Gibson"
+  },
+  {
+   "code": "8C.PTE2",
+   "date": "Tue 23 Jun",
+   "startPeriod": 9,
+   "endPeriod": 10,
+   "room": "F1-06",
+   "teacher": "Sarum Shah",
+   "type": "same",
+   "flag": {
+    "type": "cover",
+    "text": "MAKE-UP",
+    "note": "8C PTE Part 2 make-up. Sarum Shah's own 8C English double (P9–P10) in F1-06 — no cover or room move needed."
+   }
   },
   {
    "code": "8B.PTS MOVED",
@@ -1284,14 +1279,6 @@
     "text": "Lewis Macdonald: 8D.PTEBOTH"
    },
    {
-    "period": "P7",
-    "text": "David Woodward: 8C.PTE2 start"
-   },
-   {
-    "period": "P8",
-    "text": "Sarum Shah: 8C.PTE2"
-   },
-   {
     "period": "P3",
     "text": "Jairusha Jackson: Media Arts cover (F2-05)"
    },
@@ -1386,6 +1373,14 @@
    {
     "period": "P7",
     "text": "Lewis Macdonald: 7E.PTE2"
+   },
+   {
+    "period": "P9",
+    "text": "Sarum Shah: 8C.PTE2"
+   },
+   {
+    "period": "P10",
+    "text": "Sarum Shah: 8C.PTE2"
    }
   ],
   "Wed 24 Jun": [
